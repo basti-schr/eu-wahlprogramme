@@ -10,8 +10,8 @@ Die AfD steht fest zu der Idee eines Europas der Vaterländer, einer europäisch
 
 Die quasistaatliche „Europäische Union“ halten wir für einen Widerspruch in sich. Eine Gruppe benachbarter Staaten kann sehr gut auf völkerrechtlicher Basis konstruktiv und friedlich kooperieren. Der Versuch jedoch, aus derzeit 28 oder noch mehr Staaten mit jeweils eigenen Sprachen, Kulturen und historischen Erfahrungen einen wie auch immer ausgestalteten Gesamtstaat zu bilden, muss scheitern. Ein solches Gebilde verfügt weder über ein Staatsvolk, noch über das erforderliche Mindestmaß an kultureller Identität, welche notwendige Voraussetzungen für gelingende Staaten sind. Die mahnenden Worte aus der Präambel unseres Wahlprogramms zur Europawahl 2014 gelten weiterhin und sind durch den Austritt Großbritanniens und den inzwischen nicht mehr vorstellbaren Eintritt der Türkei bestätigt worden:
 
-_„So entsteht ohne Zustimmung der Bürger ein bürgerferner Kunststaat, der auf Vertrags- und Rechtsbrüche zurückgeht. Zusammen mit gewaltigen ökonomischen und sozialen Verwerfungen in den Südländern, der schleichenden Enteignung von Sparern und der ungerechten Belastung von Steuerzahlern der ökonomisch stabileren Staaten führt dies zu einer steigenden Ablehnung der EU
-... In einzelnen Staaten wird sogar offen der Austritt aus dieser EU gefordert.“_
+„So entsteht ohne Zustimmung der Bürger ein bürgerferner Kunststaat, der auf Vertrags- und Rechtsbrüche zurückgeht. Zusammen mit gewaltigen ökonomischen und sozialen Verwerfungen in den Südländern, der schleichenden Enteignung von Sparern und der ungerechten Belastung von Steuerzahlern der ökonomisch stabileren Staaten führt dies zu einer steigenden Ablehnung der EU
+... In einzelnen Staaten wird sogar offen der Austritt aus dieser EU gefordert.“
 
 Eine Union Europäischer Staaten wird nur dann eine Zukunft haben, wenn es gelingt, dem sich immer schneller drehenden Rad der Entdemokratisierung und Zentralisierung in die Speichen zu greifen, bevor die heutige EU durch die Pervertierung ihrer Gründungsidee an sich selbst zu Grunde geht. Die wirtschaftsgeschichtlich ungewöhnliche Idee einer Einheitswährung für wirtschaftlich völlig unterschiedlich entwickelte Staaten ist gescheitert. Es handelte sich um eine politische Wunschvorstellung, die mit ökonomischen Gesetzen nicht in Einklang zu bringen war und auch für die Zukunft nicht in Einklang gebracht werden kann.
 Die deshalb vielfach bereits praktizierte und sich weiter abzeichnende Transferunion führt zum Abstieg aller europäischen Volkswirtschaften und zu unüberbrückbaren Konflikten zwischen den Staaten.
@@ -41,7 +41,7 @@ Die europäische Gemeinschaft hat sich zu einem undemokratischen Konstrukt entwi
 
 Sollten sich unsere grundlegenden Reformansätze im bestehenden System der EU nicht in angemessener Zeit verwirklichen lassen, halten wir einen Austritt Deutschlands oder eine geordnete Auflösung der Europäischen Union und die Gründung einer neuen europäischen Wirtschafts- und Interessengemeinschaft für notwendig und werden die Entscheidung über den DEXIT bei den Bürgern einholen, so wie es nach unserem Modell der direkten Demokratie selbstverständlich ist.
 
-**Die EU – Zentralismus und Bürokratie**
+#### Die EU – Zentralismus und Bürokratie
 
 Die politischen Akteure Europas haben die Europäische Union zu einem monströsen Behörden- und Verwaltungsapparat ausgebaut: Zwölf EU-Institutionen mit 44.000 EU-Beamten und 11.000 Angestellten, Personalkosten von über acht Milliarden Euro, 24 EU-Agenturen mit einer nicht veröffentlichten Zahl von Mitarbeitern und Heerscharen von Dienstleistern wie Dolmetschern und Sachverständigen. Die Abgeordneten, Kommissare, Beamten und sonstigen EU-Beschäftigten erhalten unangemessen hohe Vergütungen und Privilegien, von paradiesischen Pensionsansprüchen bis zu steuerfreien Zulagen. In der EU verdienen beispielsweise etwa 4.000 EU-Beamte jeweils mehr als der deutsche Bundeskanzler
 (290.000 € brutto/Jahr).
@@ -51,11 +51,11 @@ Mit der Reform der EU wollen wir den aufgeblähten Behördenapparat schrumpfen u
 Die Abkehr vom Einstimmigkeitsprinzip und die Einführung eines Mehrheitsprinzips ist mit unserer Vorstellung der Europäischen Union nicht vereinbar.
 Kein Land soll über ein anderes Land bestimmen. Das Mehrheitsprinzip hebt die Souveränität der Staaten auf.
 
-**EU-Parlament abschaffen**
+#### EU-Parlament abschaffen
 
 Das undemokratische EU-Parlament mit seinen derzeit privilegierten 751 Abgeordneten wollen wir abschaffen. Die Rechtsetzungskompetenz sehen wir ausschließlich bei den Nationalstaaten, befürworten jedoch eine Intensivierung der zwischenstaatlichen Zusammenarbeit der Mitgliedsländer und den Abschluss von multilateralen Staatsverträgen. Nicht Zentralismus und Gängelung, sondern partnerschaftliche Kooperation gewährleistet nachhaltigen Wohlstand und Frieden.
 
-**Ein neuer Europäischer Gerichtshof als supranationales Schiedsgericht**
+#### Ein neuer Europäischer Gerichtshof als supranationales Schiedsgericht
 
 Bei der Neuordnung der Europäischen Union wollen wir anstelle der bisherigen EU-Organe eine Organisationsstruktur schaffen, welche der Organisation anderer zwischenstaatlicher Zusammenschlüsse entspricht. Die Einzelheiten der Organisationsstruktur sind in multilateralen Verträgen zu regeln.
 
@@ -415,7 +415,7 @@ Türkische Staatsangehörige genießen hierzulande Sonderrechte, die auf längst
 
 # 7 | Umweltschutz, Landwirtschaft und Verbraucherschutz
 
-**Umweltschutz, Landwirschaft und Verbraucherschutz**
+#### Umweltschutz, Landwirschaft und Verbraucherschutz
 
 Umweltpolitik muss sich zuerst an nationalen Gegebenheiten und Bedürfnissen orientieren. Die EU hat es seit ihrer Gründung nicht geschafft, die Interessen von Landwirtschaft und Umweltschutz zusammen zu bringen. Die verfehlte Förderung der Landwirtschaft steht einem effektiven Naturschutz entgegen. Die überbordende Bürokratie bedroht die Landwirte in ihrer Existenz. Ähnlich sieht es beim Verbraucherschutz aus. Nitrat- und Stickoxid-Grenzwerte sind realitätsfern, gängeln die Verbraucher und kosten Arbeitsplätze. Unter Beachtung des Subsidiaritäts-Prinzips fordern wir alle Zuständigkeiten von der EU zurück.
 
@@ -624,7 +624,7 @@ Das in Deutschland in den zwanziger Jahren des letzten Jahrhunderts eingeführte
 
 Das Berufsbild des Heilpraktikers in Deutschland ist zu schützen und weiterzuentwickeln. Eine Abschaffung oder wesentliche Beeinträchtigung durch europäische Institutionen ist abzulehnen.
 
-**Familienpolitik**
+#### Familienpolitik
 
 Die Familie ist die Keimzelle jeder Gesellschaft und steht deshalb in Deutschland unter dem besonderen Schutz des Grundgesetzes. Alle Personen haben das Recht, ihren Lebensstand frei zu wählen. Andere Formen des Zusammenlebens als die Ehe zwischen Mann und Frau sind zu respektieren, damit aber weder gleichzusetzen noch zu fördern. Die AfD bekennt sich in ihrer Familienpolitik zum klassischen Leitbild der Familie, in der Vater und Mutter in dauerhafter gemeinsamer Verantwortung für ihre Kinder sorgen. Die einzigartige und privilegierte Position von Vater und Mutter im Hinblick auf den Schutz des Kindeswohls muss in vollem Umfang erhalten werden. Wir streben Chancengleichheit für Frauen und Männer an, lehnen aber die Stigmatisierung traditioneller Geschlechterrollen ab.
 
@@ -724,7 +724,7 @@ Die Forderung der Vereinten Nationen, behinderten Kindern Teilhabe am Bildungssy
 
 ## 12.4 Keine ideologische Beeinflussung: Neutralität sämtlicher
 
-**Bildungseinrichtungen wiederherstellen**
+#### Bildungseinrichtungen wiederherstellen
 
 Bildungseinrichtungen dürfen kein Ort der politischen Indoktrination sein. An deutschen Schulen und Universitäten wird oft nicht die Bildung einer eigenen Meinung gefördert, sondern die unkritische Übernahme ideologischer Vorgaben.
 Leitbild der Bildung muss jedoch der selbstständig denkende Bürger sein. Wir lehnen die Ökonomisierung und Ideologisierung von Bildung strikt ab und fordern die Rückkehr zum humanistischen Bildungsideal. Wir bekennen uns zur umfassenden Bildung, die zur Entfaltung der Persönlichkeit sowie zur Wahrnehmung der demokratischen staatsbürgerlichen Rechte und Pflichten notwendig ist.
@@ -744,7 +744,7 @@ Unterschiede etwa bei der Auswahl und Ausübung von Berufen werden als Beweis ei
 Diese Ideologie entwertet die für den Bestand der Gesellschaft unverzichtbare Familie und verunsichert Kinder in ihrer sexuellen Identität. Behauptungen dieser Weltanschauung stehen im Widerspruch zu wissenschaftlichen Erkenntnissen der Biologie und der Entwicklungspsychologie. Wir fordern, aus der Amsterdamer Verpflichtungserklärung auszusteigen. Wir befürworten die Gleichberechtigung und lehnen daher eine einseitige, geschlechterspezifische Förderung ab. Das sogenannte Gender-Budgeting als fiskalisches Instrument zur Durchsetzung des Gender-Mainstreaming in den Haushalten der EU und der Mitgliedsstaaten lehnen wir ab, weil sich öffentliche Ausgaben nicht den Geschlechtern zuordnen lassen.
 Die staatliche Förderung der sogenannten Genderwissenschaft ist zu beenden. Bei der Besetzung von Stellen muss allein die fachliche Qualifikation des Bewerbers entscheiden. Wir lehnen die unnatürliche Umgestaltung der deutschen Sprache als Mittel zur Durchsetzung der Gender-Ideologie ab. In einem freien Europa darf es keinen staatlichen Zwang zur Verwendung einer politisch korrekten Sprache geben.
 
-**Kulturpolitische Positionen zur Europawahl**
+#### Kulturpolitische Positionen zur Europawahl
 
 Die Identität der europäischen Nationen beruht auf über Jahrhunderte gewachsenen kulturellen Traditionen. Gerade in ihrer Vielfalt und Unterschiedlichkeit machen diese den kulturellen Reichtum Europas aus. Die Kulturpolitik der EU verfolgt das Ziel, diese nationalen und regionalen Traditionen einer künstlich geschaffenen europäischen Einheitskultur unterzuordnen und sie für diese zu instrumentalisieren. Die AfD stellt sich dieser Tendenz strikt entgegen und hält auch in kultureller Hinsicht an einem Europa der Vaterländer fest.
 
@@ -823,11 +823,11 @@ Der EU fehlt zwar eine eigenständige Gesetzgebungskompetenz für die Bereiche B
 
 Auswirkungen auf den nationalen Wohnungsmarkt und den Immobiliensektor.
 
-**Wohnimmobilienkreditrichtlinie**
+#### Wohnimmobilienkreditrichtlinie
 
 Die seit dem 21. März 2016 in Deutschland umgesetzte Wohnimmobilienkreditrichtlinie (Wokri) hat entgegen den Ankündigungen weder die grenzüberschreitende Vergabe von Wohnungsbaufinanzierungskrediten erleichtert noch Verbesserungen für die Kreditnehmer gebracht. Stattdessen haben insbesondere die verschärften Anforderungen an die Kreditwürdigkeitsprüfung zu einer Einschränkung der Kreditvergabe an bestimmte Personengruppen wie Selbstständige, junge Familien oder ältere Kreditnehmer geführt. Wir fordern daher die ersatzlose Aufhebung der europäischen Wohnimmobilienkreditrichtlinie.
 
-**Richtlinie zur Gesamtenergieeffizienz von Gebäuden**
+#### Richtlinie zur Gesamtenergieeffizienz von Gebäuden
 
 Die erst im April 2018 nochmals verschärfte Richtlinie zur Gesamtenergieeffizienz von Gebäuden sieht u. a. die Einführung eines „Niedrigst-Energiegebäudes“
 als Standard für alle Neubauten ab 2021 und für behördliche Bauten ab 2019 vor.
@@ -837,11 +837,11 @@ Diese verordnete Energiepolitik führt zu massiven Eingriffen in die Planungsund
 
 Baurecht und zugehörige Verordnungen gehören ausschließlich in nationale Zuständigkeit.
 
-**Förderung des ländlichen Raumes**
+#### Förderung des ländlichen Raumes
 
 Wir fordern, die Förderprogramme für den ländlichen Raum zurückzuholen und die deutschen Mittel dazu auf nationaler und regionaler Ebene zielgerichtet und effizient einzusetzen.
 
-**Wasserwirtschaft nicht durch die EU privatisieren lassen**
+#### Wasserwirtschaft nicht durch die EU privatisieren lassen
 
 Die deutsche Wasserwirtschaft (BDEW) hat die von der EU verhandelten Handelsabkommen (JEFTA, CETA) kritisiert und stellt heraus, dass sich aus solchen Abkommen Nachteile beim Schutz der kommunalen Wasserwirtschaft ergeben.
 
