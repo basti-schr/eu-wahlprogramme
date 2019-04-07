@@ -147,7 +147,6 @@ Europa wird durch die NATO verteidigt. Deshalb lehnt die AfD die Schaffung einer
 
 Die Verteidigungsfähigkeit Deutschlands muss unverzüglich wiederhergestellt werden. Dazu müssen zunächst die gravierendsten Mängel und Probleme bei der aktuellen Personal- und Ausrüstungslage der Bundeswehr gelöst, die gegenwärtigen Strukturen endlich ausgefüllt und die Streitkräfte wieder zukunftsfähig gemacht werden. Wir fordern die zügige Anpassung des deutschen Wehretats an das 2-Prozent-Ziel der NATO. Die Erfüllung dieses Ziels dient der Erneuerung der Einsatz- und Bündnisfähigkeit unserer Streitkräfte. Darüber hinaus ist der Aufbau der Bundeswehr auf eine für die Landes-und Bündnisverteidigung notwendige Größe erforderlich, die auch eine uneingeschränkte Wahrnehmung ihrer nationalen Aufgaben im Rahmen der Katastrophenhilfe (Art. 35 Abs. 2, Satz 2, Abs. 3 GG), der Terrorabwehr (Art. 87a IV GG) und der Cyberabwehr garantiert. Die Sicherung der personellen Grundlagen und adäquater Strukturen der Bundeswehr werden nur mit der Aufhebung der Aussetzung der Wehrpflicht möglich sein.
 
-(^1) Permanent Structured Cooperation
 ### 3.2.3 Erhalt der deutschen und europäischen wehrtechnischen Industrie
 
 Die AfD fordert den Erhalt der wehrtechnischen Fähigkeiten, die Sicherung der in diesem Hochtechnologiesektor bestehenden Arbeitsplätze und Planungssicherheit für die deutsche Industrie und unsere Streitkräfte. Dafür müssen unter anderem neue wehrtechnische Programme initiiert werden. Im Rahmen künftiger Rüstungskooperationen bestehen wir auf den Schutz deutscher Interessen. Deutsche Schlüsseltechnologien dürfen nicht an Drittstaaten veräußert werden. Zudem muss auf ein ausgewogenes Verhältnis zwischen der Finanzierung und der anteiligen Produktion in Deutschland geachtet werden. Bei Schlüsselfähigkeiten muss Deutschland die Systemführerschaft anstreben.
@@ -298,9 +297,7 @@ Die AfD fordert den dauerhaften Erhalt der uneingeschränkten Bargeldnutzung als
 
 ## 5.5 Keine Haftung für EU-Banken
 
-Die AfD verlangt, dass die Bundesregierung sich gegen jede Weiterverfolgung der sogenannten Europäischen Bankenunion und die von der EU-Kommission vorgeschlagene Europäische Einlagensicherung (EDIS) stellt. Mit der Europäischen Bankenunion würden auch die bisher nur kommunal verankerten deutschen Sparkassen, Genossenschaftsbanken und die deutsche private Bankenwirtschaft der EU-Umverteilung unterworfen. Die EDIS wäre mit mehreren Billionen Euro der größte gemeinschaftliche Haftungstopf der EU. Durch diese Vergemeinschaftung
-
-würden deutsche Sparer und Bankkunden mit ihrem Einlagengeld für marode Banken in den Mittelmeerländern haften, die bereits heute über 900 Milliarden Euro an uneinbringlichen Kreditforderungen in den Bilanzen haben. Riesige Ausfälle sind nur eine Frage der Zeit und würden nach Einführung von EDIS direkt deutsche Haftungszahlungen auslösen! Darüber hinaus würde eine EDIS zukünftig auf Grund einer höheren deutschen Absicherung zur Inkaufnahme höherer Risiken durch ausländische Banken verleiten.
+Die AfD verlangt, dass die Bundesregierung sich gegen jede Weiterverfolgung der sogenannten Europäischen Bankenunion und die von der EU-Kommission vorgeschlagene Europäische Einlagensicherung (EDIS) stellt. Mit der Europäischen Bankenunion würden auch die bisher nur kommunal verankerten deutschen Sparkassen, Genossenschaftsbanken und die deutsche private Bankenwirtschaft der EU-Umverteilung unterworfen. Die EDIS wäre mit mehreren Billionen Euro der größte gemeinschaftliche Haftungstopf der EU. Durch diese Vergemeinschaftung würden deutsche Sparer und Bankkunden mit ihrem Einlagengeld für marode Banken in den Mittelmeerländern haften, die bereits heute über 900 Milliarden Euro an uneinbringlichen Kreditforderungen in den Bilanzen haben. Riesige Ausfälle sind nur eine Frage der Zeit und würden nach Einführung von EDIS direkt deutsche Haftungszahlungen auslösen! Darüber hinaus würde eine EDIS zukünftig auf Grund einer höheren deutschen Absicherung zur Inkaufnahme höherer Risiken durch ausländische Banken verleiten.
 
 Dies wäre ein weiterer Schritt in die von der AfD abgelehnte vertiefte Haftungsund Transferunion. Die AfD verlangt, dass die deutschen Banken etwaige Haftungen nur auf die nationale Ebene begrenzen und wie bisher eigene Haftungs- und Einlagensicherungs-Verbundlösungen schaffen können, die den unterschiedlichen Profilen der deutschen Bankengruppen Rechnung tragen. Wir treten dafür ein, die nationale Souveränität über die Banken- und Finanzdienstleistungen wiederherzustellen; dieser Wirtschaftsbereich ist für ein reibungsloses Funktionieren unserer Volkswirtschaft lebenswichtig.
 
@@ -323,9 +320,7 @@ Wir wollen keine europäische Bankenaufsicht als ersten Pfeiler der Bankenunion.
 
 Bereits die bisherigen Anwendungsfälle der europäischen Regeln zur Bankenabwicklung haben deren Zahnlosigkeit gezeigt. Die europäischen Regeln haben Löcher, weil sie Interbankenforderungen privilegieren und somit Haftungsrisiken für den Steuerzahler schaffen, anstatt sie zu verringern. Die Regeln werden von der EZB und in der EU auch nicht einheitlich durchgesetzt. Durch die Beitragspflicht deutscher Banken zum Abwicklungsfonds SRF wird eine Mithaftung für ausländische Banken geschaffen. Die Letztsicherung dieses Fonds durch den ESM zeigt, dass der Fonds zu klein ist und die Regeln den Steuerzahler nicht vor Risiken schützen können. Die AfD lehnt die derzeitigen europäischen Regeln zur Bankenabwicklung insgesamt als fehlkonstruiert ab. Ein steuerfinanziertes Sonderrecht für Bankeninsolvenzen darf es nicht geben.
 
-## 5.9 Mit uns ist Ihr Geld sicher: Absicherung der Bürger
-
-gegen die Eurokrise
+## 5.9 Mit uns ist Ihr Geld sicher: Absicherung der Bürger gegen die Eurokrise
 
 Deutschland muss auch in einem plötzlichen währungspolitischen Krisenfall handlungsfähig sein.
 
@@ -475,7 +470,7 @@ Die Brüsseler Behörden belegen die traditionellen Nahrungsmittelhersteller mit
 
 Lebensmittelbetrug schadet dem Vertrauen in die Lebensmittelsicherheit und muss restlos aufgeklärt werden. Das Schnellwarnsystem für Lebensmittel und Futtermittel und das System für die Verwaltung und Zusammenarbeit müssen vereinfacht werden. Bei begründetem Verdacht auf schädliche Produkte, Lebensmittelgifte oder Tierseuchen müssen stichprobenartige Kontrollen auch an den EU-Binnengrenzen möglich sein.
 
-Angesichts der Gefahren irreversibler Umwelt- und Gesundheitsschäden ist das deutsche Vorsorgeprinzip zu einem Leitbild europäischer Gemeinschaftspolitik geworden. Lange Prüfungs- und Zulassungsverfahren sollen Belastungen und Schäden für Mensch und Umwelt weitestgehend im Voraus verringern. Wir sehen den nachgelagerten Verbraucherschutz in Form kollektiver Rechtsschutzinstrumente (wie z. B. Sammelklagen) kritisch, wenn hierdurch das Vorsorgeprinzip ausgehebelt oder der Weg frei zur Entstehung einer Klageindustrie nach amerikanischem Vorbild geschaffen wird.
+Angesichts der Gefahren irreversibler Umwelt- und Gesundheitsschäden ist das deutsche Vorsorgeprinzip zu einem Leitbild europäischer Gemeinschaftspolitik geworden. Lange Prüfungs- und Zulassungsverfahren sollen Belastungen und Schäden für Mensch und Umwelt weitestgehend im Voraus verringern. Wir sehen den nachgelagerten Verbraucherschutz in Form kollektiver Rechtsschutzinstrumente (wie z.B. Sammelklagen) kritisch, wenn hierdurch das Vorsorgeprinzip ausgehebelt oder der Weg frei zur Entstehung einer Klageindustrie nach amerikanischem Vorbild geschaffen wird.
 
 ## 7.6 Tierwohl, Transport und artgerechte Haltung
 
@@ -807,7 +802,7 @@ lich überflüssig machen könnte. Die AfD fordert, dass sich Deutschland wieder
 
 Die Freiheit von Forschung und Lehre stellt ebenso einen wichtigen Teilaspekt der Freiheit der Bürger dar, wie einen der wichtigsten Grundpfeiler der Prosperität der Staaten Europas. Aus diesem Grund stehen wir für einen entpolitisierten und ideologiefreien Forschungsbetrieb und fordern dessen strikte politische und weltanschauliche Neutralität. Subsidiarität und Vielfalt der Strategieansätze sehen wir als die grundlegenden Erfolgsvoraussetzungen an.
 
-Die AfD befürwortet die bestehende Freizügigkeit für Forscher und den freien Austausch wissenschaftlicher Erkenntnisse und Technologien in Europa und darüber hinaus. In bestimmten Fällen halten wir es für sinnvoll, gemeinsame Forschungsstrategien für wichtige Schlüsseltechnologien (z. B. Hardware und Software) zu entwickeln und diese als Gemeinschaftsaufgabe zu fördern.
+Die AfD befürwortet die bestehende Freizügigkeit für Forscher und den freien Austausch wissenschaftlicher Erkenntnisse und Technologien in Europa und darüber hinaus. In bestimmten Fällen halten wir es für sinnvoll, gemeinsame Forschungsstrategien für wichtige Schlüsseltechnologien (z.B. Hardware und Software) zu entwickeln und diese als Gemeinschaftsaufgabe zu fördern.
 
 Die AfD tritt an, die Missstände bei der Forschungsförderung auf europäischer Ebene zu beheben. Dazu fordern wir, neben einer Entflechtung der Aufgaben Forschungsförderung, Wirtschaftsförderung und Regionalentwicklung, eine Rückführung der Budgets in nationale Verantwortung und an den nationalen Gegebenheiten ausgerichtete Forschungsstrategien, um eine effektive Verwendung der Mittel im Sinne ihrer Bürger zu erreichen.
 
@@ -815,7 +810,7 @@ Wissenschaftler sollen ohne ideologische und bürokratische Zwänge in ihrer For
 
 Bi- und multilaterale Forschungsprojekte zwischen einzelnen Staaten, wie sie bei CERN, ITER oder Wendelstein7X erfolgreich exerziert werden, sollen Leitbildcharakter für andere Großprojekte haben.
 
-Die Förderung kleiner oder forschungsstarker Unternehmen soll über geeignete Instrumente (z. B. Bürgschaften, Darlehen oder Steuernachlässe) erfolgen.
+Die Förderung kleiner oder forschungsstarker Unternehmen soll über geeignete Instrumente (z.B. Bürgschaften, Darlehen oder Steuernachlässe) erfolgen.
 
 ## 13.3 Planen, Bauen und Wohnen
 
@@ -894,7 +889,7 @@ Die Nutzung von IT und Internet kann langfristig nur erfolgreich sein, wenn digi
 
 Die Freiheitsrechte der Bürger dürfen durch Digitalisierung nicht eingeschränkt werden. Der Umgang mit Behörden oder die Nutzung öffentlicher Einrichtungen
 
-muss auch ohne digitale Identität möglich sein. Die Nutzung von digitalen Systemen zur Erfassung von Verbrauchs- oder Bewegungsprofilen (wie z. B. “Smart Meter”, “eCall”) muss freiwillig sein.
+muss auch ohne digitale Identität möglich sein. Die Nutzung von digitalen Systemen zur Erfassung von Verbrauchs- oder Bewegungsprofilen (wie z.B. “Smart Meter”, “eCall”) muss freiwillig sein.
 
 Mit Blick auf die zunehmende Zahl komplexer internetfähiger Geräte (Smartphones, „Internet of Things“) erachten wir eine Stärkung des Verbraucherschutzes und der IT-Sicherheit als notwendig. Wir möchten die gesetzliche Gewährleistungspflicht für langlebige internetfähige Geräte verlängern und sachlich ausweiten, insbesondere durch Schaffung eines Rechtsanspruches auf Sicherheitsupdates. Gleichzeitig sollen Verbraucher und kleine und mittelständische Unternehmen besser über IT-Sicherheit informiert werden.
 
