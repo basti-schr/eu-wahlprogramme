@@ -1,7 +1,3 @@
-[http://www.afd.de/europawahlprogramm](http://www.afd.de/europawahlprogramm)
-
-EUROPAWAHLPROGRAMM
-
 # 0 Präambel
 
 Im Bewusstsein der historischen Verantwortung für Deutschlands Zukunft hat sich die Alternative für Deutschland das folgende Programm zur Wahl des 9. Europäischen Parlaments im Mai 2019 gegeben:
@@ -10,8 +6,7 @@ Die AfD steht fest zu der Idee eines Europas der Vaterländer, einer europäisch
 
 Die quasistaatliche „Europäische Union“ halten wir für einen Widerspruch in sich. Eine Gruppe benachbarter Staaten kann sehr gut auf völkerrechtlicher Basis konstruktiv und friedlich kooperieren. Der Versuch jedoch, aus derzeit 28 oder noch mehr Staaten mit jeweils eigenen Sprachen, Kulturen und historischen Erfahrungen einen wie auch immer ausgestalteten Gesamtstaat zu bilden, muss scheitern. Ein solches Gebilde verfügt weder über ein Staatsvolk, noch über das erforderliche Mindestmaß an kultureller Identität, welche notwendige Voraussetzungen für gelingende Staaten sind. Die mahnenden Worte aus der Präambel unseres Wahlprogramms zur Europawahl 2014 gelten weiterhin und sind durch den Austritt Großbritanniens und den inzwischen nicht mehr vorstellbaren Eintritt der Türkei bestätigt worden:
 
-„So entsteht ohne Zustimmung der Bürger ein bürgerferner Kunststaat, der auf Vertrags- und Rechtsbrüche zurückgeht. Zusammen mit gewaltigen ökonomischen und sozialen Verwerfungen in den Südländern, der schleichenden Enteignung von Sparern und der ungerechten Belastung von Steuerzahlern der ökonomisch stabileren Staaten führt dies zu einer steigenden Ablehnung der EU
-... In einzelnen Staaten wird sogar offen der Austritt aus dieser EU gefordert.“
+„So entsteht ohne Zustimmung der Bürger ein bürgerferner Kunststaat, der auf Vertrags- und Rechtsbrüche zurückgeht. Zusammen mit gewaltigen ökonomischen und sozialen Verwerfungen in den Südländern, der schleichenden Enteignung von Sparern und der ungerechten Belastung von Steuerzahlern der ökonomisch stabileren Staaten führt dies zu einer steigenden Ablehnung der EU... In einzelnen Staaten wird sogar offen der Austritt aus dieser EU gefordert.“
 
 Eine Union Europäischer Staaten wird nur dann eine Zukunft haben, wenn es gelingt, dem sich immer schneller drehenden Rad der Entdemokratisierung und Zentralisierung in die Speichen zu greifen, bevor die heutige EU durch die Pervertierung ihrer Gründungsidee an sich selbst zu Grunde geht. Die wirtschaftsgeschichtlich ungewöhnliche Idee einer Einheitswährung für wirtschaftlich völlig unterschiedlich entwickelte Staaten ist gescheitert. Es handelte sich um eine politische Wunschvorstellung, die mit ökonomischen Gesetzen nicht in Einklang zu bringen war und auch für die Zukunft nicht in Einklang gebracht werden kann.
 Die deshalb vielfach bereits praktizierte und sich weiter abzeichnende Transferunion führt zum Abstieg aller europäischen Volkswirtschaften und zu unüberbrückbaren Konflikten zwischen den Staaten.
@@ -43,8 +38,7 @@ Sollten sich unsere grundlegenden Reformansätze im bestehenden System der EU ni
 
 #### Die EU – Zentralismus und Bürokratie
 
-Die politischen Akteure Europas haben die Europäische Union zu einem monströsen Behörden- und Verwaltungsapparat ausgebaut: Zwölf EU-Institutionen mit 44.000 EU-Beamten und 11.000 Angestellten, Personalkosten von über acht Milliarden Euro, 24 EU-Agenturen mit einer nicht veröffentlichten Zahl von Mitarbeitern und Heerscharen von Dienstleistern wie Dolmetschern und Sachverständigen. Die Abgeordneten, Kommissare, Beamten und sonstigen EU-Beschäftigten erhalten unangemessen hohe Vergütungen und Privilegien, von paradiesischen Pensionsansprüchen bis zu steuerfreien Zulagen. In der EU verdienen beispielsweise etwa 4.000 EU-Beamte jeweils mehr als der deutsche Bundeskanzler
-(290.000 € brutto/Jahr).
+Die politischen Akteure Europas haben die Europäische Union zu einem monströsen Behörden- und Verwaltungsapparat ausgebaut: Zwölf EU-Institutionen mit 44.000 EU-Beamten und 11.000 Angestellten, Personalkosten von über acht Milliarden Euro, 24 EU-Agenturen mit einer nicht veröffentlichten Zahl von Mitarbeitern und Heerscharen von Dienstleistern wie Dolmetschern und Sachverständigen. Die Abgeordneten, Kommissare, Beamten und sonstigen EU-Beschäftigten erhalten unangemessen hohe Vergütungen und Privilegien, von paradiesischen Pensionsansprüchen bis zu steuerfreien Zulagen. In der EU verdienen beispielsweise etwa 4.000 EU-Beamte jeweils mehr als der deutsche Bundeskanzler (290.000 € brutto/Jahr).
 
 Mit der Reform der EU wollen wir den aufgeblähten Behördenapparat schrumpfen und die unverhältnismäßige Besoldung und Versorgung der EU-Bürokraten stoppen. Die Besetzung von Ämtern und Funktionen der EU-Institutionen soll nach Eignung und Befähigung erfolgen und nicht nach Parteibuch.
 
@@ -88,8 +82,7 @@ Die mit dem Vertrag von Maastricht eingeführte „politische Partei auf europä
 
 Mitteln verstößt gegen Europarecht. Ungeachtet dessen haben sich die etablierten Parteien damit eine weitere Quelle der Staatsfinanzierung erschlossen. Seit der Einführung im Jahr 2004 hat das EU-Parlament die diesbezüglichen Mittel von 3,2 Millionen Euro auf 20,8 Millionen Euro im Jahr 2016 erhöht.
 
-Darüber hinaus haben sich die Parteien noch Stiftungen auf europäischer Ebene genehmigt. So erhält beispielsweise die Stiftung der Europäischen Volkspartei
-(EVP), der die CDU/CSU angehört, 4,9 Millionen Euro (2016). Insgesamt lassen sich die EU-Stiftungen mittlerweile etwa 16 Millionen Euro ausbezahlen. Die AfD fordert die sofortige Einstellung der Parteienfinanzierung auf europäischer Ebene.
+Darüber hinaus haben sich die Parteien noch Stiftungen auf europäischer Ebene genehmigt. So erhält beispielsweise die Stiftung der Europäischen Volkspartei (EVP), der die CDU/CSU angehört, 4,9 Millionen Euro (2016). Insgesamt lassen sich die EU-Stiftungen mittlerweile etwa 16 Millionen Euro ausbezahlen. Die AfD fordert die sofortige Einstellung der Parteienfinanzierung auf europäischer Ebene.
 
 # 3 | Außen- und Sicherheitspolitik, Außenhandel und Entwicklungshilfe
 
@@ -140,8 +133,7 @@ Dazu muss die Bundesregierung sofort Verhandlungen mit den syrischen Behörden a
 
 Europa wird durch die NATO verteidigt. Deshalb lehnt die AfD die Schaffung einer europäischen Armee strikt ab, da diese über keine demokratische Legitimation verfügt und eine weitere Souveränitätsabgabe der europäischen Staaten bedeuten würde. Sie würde auch nicht die grundlegenden Probleme der europäischen Verteidigung lösen.
 
-Über den Einsatz deutscher Streitkräfte darf weiterhin nur der Deutsche Bundestag entscheiden. Die „Ständige Strukturierte Zusammenarbeit“ (Pesco^1 ) als Vorstufe zu einer EU-Armee und Doppelstrukturen der EU (z.B. Battle Groups und zusätzliche EU-Stäbe) sowie einen europäischen Verteidigungsfonds und eine europäische
-„Friedensfazilität“ lehnen wir ab. Stattdessen fordert die AfD die Stärkung des europäischen Pfeilers der NATO, um hier Deutschlands Rolle und Einfluss zu erhöhen.
+Über den Einsatz deutscher Streitkräfte darf weiterhin nur der Deutsche Bundestag entscheiden. Die „Ständige Strukturierte Zusammenarbeit“ (Pesco^1 ) als Vorstufe zu einer EU-Armee und Doppelstrukturen der EU (z.B. Battle Groups und zusätzliche EU-Stäbe) sowie einen europäischen Verteidigungsfonds und eine europäische „Friedensfazilität“ lehnen wir ab. Stattdessen fordert die AfD die Stärkung des europäischen Pfeilers der NATO, um hier Deutschlands Rolle und Einfluss zu erhöhen.
 
 ### 3.2.2 Wiederherstellung der Einsatzfähigkeit der Bundeswehr
 
@@ -192,9 +184,7 @@ Deshalb wird die Budgetplanung auf die jeweilige Wahlperiode des EU-Parlaments b
 
 Eines der Problemfelder der globalen Finanzpolitik ist die unzureichende Bekämpfung von Steuerhinterziehung und Steuerbetrug. Die AfD setzt sich dafür ein, dass rechtswidrige Handlungsweisen mit Hilfe der OECD beendet werden. Die EU ist dafür nicht zuständig.
 
-Um Gewinnverschiebungen zu vermeiden, müssen Staaten zudem ihre Doppelbesteuerungsabkommen mit Deutschland ändern. Zuständig für die Aushandlung
-
-von Steuerabkommen und Verhandlungen mit der OECD sind die Nationalstaaten.
+Um Gewinnverschiebungen zu vermeiden, müssen Staaten zudem ihre Doppelbesteuerungsabkommen mit Deutschland ändern. Zuständig für die Aushandlung von Steuerabkommen und Verhandlungen mit der OECD sind die Nationalstaaten.
 Entsprechende Bestrebungen, die EU bei dem Verhandeln von Doppelbesteuerungsabkommen zu involvieren, lehnen wir ab. Eine EU-getriebene Harmonisierung von Unternehmenssteuern sowohl bei der Bemessungsgrundlage wie auch bei den Steuersätzen lehnen wir ab. Seit der Abschaffung von Wechselkursen innerhalb der Eurozone können die Länder Handelsungleichgewichte nicht mehr abfedern. Die AfD warnt davor, auch noch die nationale Steuerhoheit als Wettbewerbsinstrument abzuschaffen. Entscheidungen eines Landes, durch geringere Steuersätze ihre Standortnachteile auszugleichen, sind gerade für Länder mit niedriger Wirtschaftsleistung überlebensnotwendig. Eine Finanztransaktionssteuer unterstützen wir, wenn sie an allen Handelsplätzen, auch außerhalb der EU, eingeführt und nationalstaatlich vereinnahmt wird. Andernfalls käme es nur zu einer Verlagerung der Handelsaktivitäten.
 
 ## 4.3 EU-Finanzen – Fass ohne Boden
@@ -252,8 +242,7 @@ Eine Politik der künstlich herbeigeführten Null- und Negativzinsen führt zur 
 
 Während die Deutsche Bundesbank nur einmal in 50 Jahren direkt Staatsanleihen gekauft hat, ist das für die EZB seit 2015 das tägliche „Geschäftsmodell“. Ende 2018 wird sie für fast 4 Billionen Euro staatliche und private Anleihen erworben haben. Eine solche unverantwortliche Ausweitung der Geldmenge ist nach den europäischen Verträgen verboten.
 
-Diese suprastaatliche Rettungspolitik verletzt geltendes Recht, darunter das Verbot der Staatsfinanzierung durch die EZB und das Verbot der Haftung für Schulden anderer Mitgliedstaaten (Art. 123 und 125 AEUV). Die Rettungspolitik bricht alle den Wählern seit den 1990er Jahren gegebenen Zusicherungen zur
-„niemals zugelassenen Haftung Deutschlands für Fremdschulden“.
+Diese suprastaatliche Rettungspolitik verletzt geltendes Recht, darunter das Verbot der Staatsfinanzierung durch die EZB und das Verbot der Haftung für Schulden anderer Mitgliedstaaten (Art. 123 und 125 AEUV). Die Rettungspolitik bricht alle den Wählern seit den 1990er Jahren gegebenen Zusicherungen zur „niemals zugelassenen Haftung Deutschlands für Fremdschulden“.
 
 Die AfD fordert die Durchsetzung der vertraglichen Verbote der Staatsfinanzierung durch die EZB und der Vergemeinschaftung der Schulden sowie eine Rückführung der Befugnisse der EZB auf reine Geldpolitik, keine Umwandlung des ESM in einen europäischen Währungsfonds und ein sukzessives Ende der EZB-Anleihenkaufprogramme und der „Rettungs“-Programme über EFSF und ESM.
 
@@ -268,9 +257,7 @@ Die Lösung besteht in der Wiedereinführung der nationalen Währungen, in denen
 
 Durch die wieder eingeführten, nationalen Währungen ist jeder Staat wieder für seine Wirtschafts-, Währungs- und staatliche Finanzpolitik verantwortlich und erhält damit seine innenpolitische Souveränität bezüglich Währung, Budgethoheit,
 
-Geld- und Finanzpolitik zurück. Damit sind auch die beiden derzeitigen internen Grundkonflikte in der Euro-Zone gelöst. Keinem Euro-Land müssen mehr (allzu)
-stringente Vorgaben gemacht werden, seine im Euro-Korsett verloren gegangene Wettbewerbsfähigkeit durch reale Abwertung seiner Einkommen, Renten und Sozialleistungen vorzunehmen. Die Euro-Länder können ihre Wettbewerbsfähigkeit dann wieder wie vor der Euro-Einführung durch ihre eigene souveräne Entscheidung über die Veränderung des Wechselkurses der nationalen Währung (z.B.
-durch Abwertung) wiederherstellen, wie es die moderne Wirtschaftswissenschaft schon seit Langem fordert.
+Geld- und Finanzpolitik zurück. Damit sind auch die beiden derzeitigen internen Grundkonflikte in der Euro-Zone gelöst. Keinem Euro-Land müssen mehr (allzu) stringente Vorgaben gemacht werden, seine im Euro-Korsett verloren gegangene Wettbewerbsfähigkeit durch reale Abwertung seiner Einkommen, Renten und Sozialleistungen vorzunehmen. Die Euro-Länder können ihre Wettbewerbsfähigkeit dann wieder wie vor der Euro-Einführung durch ihre eigene souveräne Entscheidung über die Veränderung des Wechselkurses der nationalen Währung (z.B. durch Abwertung) wiederherstellen, wie es die moderne Wirtschaftswissenschaft schon seit Langem fordert.
 
 Für Deutschland würde die Wiedereinführung der Deutschen Mark parallel zum Euro die schrittweise Reduzierung der deutschen Haftung durch Ausstieg aus dem Target2-System und Wegfall der Euro-Rettungsmaßnahmen bedeuten.
 Die wiedereingeführte D-Mark würde ihre hohe Kaufkraft gegenüber den anderen Ländern (wie vor der Euro-Einführung) analog zur guten Leistungsfähigkeit der deutschen Wirtschaft wiedergewinnen, das heißt aufwerten. Die mit dieser Kaufkrafterhöhung verbundene enorme Kostensenkung auf der Importseite würde erneut zu steigenden Realeinkommen führen, die in der gesamten deutschen Volkswirtschaft wieder allen zugutekämen und nicht nur, wie derzeit, einigen Exportfirmen. Der ehemalige Bundeswirtschafts- und Finanzminister Professor Karl Schiller hat dies einst so formuliert: „Jede Währungs-Aufwertung ist eine Sozial-Dividende für das deutsche Volk, denn ihr könnt danach im Supermarkt alles billiger kaufen“.
@@ -279,9 +266,7 @@ Das Bundesverfassungsgericht hat 1993 in seinem Maastricht-Urteil konstatiert, d
 
 Der AfD ist bewusst, dass die Wiedereinführung der nationalen Währung für das jeweilige Euro Land nicht ohne zusätzliche einmalige finanzielle Belastungen umsetzbar ist. Diese werden aber durch einen national gestaltbaren Währungs-Wiedereinführungsprozess niedriger sein als bei einem weiteren Verbleib im Eurosystem. Das gilt für alle Euro-Länder - und auch konkret für Deutschland mit sonst im Eurosystem weiterhin unabsehbar steigenden „Euro-Rettungsverpflichtungen“ durch Fremdhaftung, Zinseinbußen und damit letztlich Einkommens- und Vermögensverlusten.
 
-Deutschland wird daher bei Wiedereinführung der DM sehr deutlich machen, dass dies nicht gegen die Partnerländer gerichtet ist, sondern dass es um die Korrektur der oben dargestellten katastrophalen Fehlentwicklung des Euro zum
-
-Wohle aller Länder der Euro-Zone und damit den Erhalt des sozialen Friedens in Europa geht.
+Deutschland wird daher bei Wiedereinführung der DM sehr deutlich machen, dass dies nicht gegen die Partnerländer gerichtet ist, sondern dass es um die Korrektur der oben dargestellten katastrophalen Fehlentwicklung des Euro zum Wohle aller Länder der Euro-Zone und damit den Erhalt des sozialen Friedens in Europa geht.
 
 Die AfD tritt für die optionale Wiedereinführung nationaler Währungen ein, zunächst parallel zum Euro, um damit in Europa und Deutschland weiterhin den Wohlstand zu sichern, diesen in den heutigen Euro-Krisenländern wiederherzustellen und damit den sozialen Frieden in Europa zu wahren.
 
@@ -324,8 +309,7 @@ Bereits die bisherigen Anwendungsfälle der europäischen Regeln zur Bankenabwic
 
 Deutschland muss auch in einem plötzlichen währungspolitischen Krisenfall handlungsfähig sein.
 
-Wir wollen deshalb für die Wiedereinführung einer neuen nationalen Währung
-(„Deutsche Mark“) rechtzeitig auch gesetzliche Vorkehrungen treffen.
+Wir wollen deshalb für die Wiedereinführung einer neuen nationalen Währung („Deutsche Mark“) rechtzeitig auch gesetzliche Vorkehrungen treffen.
 
 Bei der Wiedereinführung der Deutschen Mark könnte Deutschland das teilweise im Ausland gelagerte Staatsgold als temporäre Deckungsoption benötigen.
 
@@ -374,8 +358,7 @@ Entwicklungshilfe, die Gewährung von Visa sowie den Marktzugang in die EU wolle
 
 ## 6.5 Remigration statt Massenzuwanderung
 
-Die millionenfache Aufnahme junger, durchsetzungsfähiger Menschen aus der
-„Dritten Welt“ in Deutschland und Europa beraubt die Herkunftsstaaten jener Leistungsträger, welche sie gerade zum Aufbau ihrer eigenen Länder dringend benötigen. Dies erzeugt und unterhält einen Teufelskreis noch größerer Verelendung; daher ist Massenzuwanderung selbst eine Fluchtursache, die bekämpft werden muss.
+Die millionenfache Aufnahme junger, durchsetzungsfähiger Menschen aus der „Dritten Welt“ in Deutschland und Europa beraubt die Herkunftsstaaten jener Leistungsträger, welche sie gerade zum Aufbau ihrer eigenen Länder dringend benötigen. Dies erzeugt und unterhält einen Teufelskreis noch größerer Verelendung; daher ist Massenzuwanderung selbst eine Fluchtursache, die bekämpft werden muss.
 Es darf daher keine Zweifel an der Durchsetzung der Rückkehr all jener geben, die hier ihr Asylrecht auf Zeit genießen, wenn sie nicht freiwillig an der Entwicklung ihrer Länder mithelfen wollen. Nicht „Resettlement”, also Umsiedlungsprogramme nach Europa, sind das Gebot der Stunde, sondern das Gegenteil: In Deutschland und Europa müssen Remigrations-Programme größtmöglichen Umfangs aufgelegt werden. Die EU und die Nationalstaaten werden aufgefordert, nach australischem Vorbild Abkommen mit Drittländern zu schließen, um abgelehnte Migranten aufzunehmen, die nicht in ihre Heimatstaaten abgeschoben werden können.
 
 ## 6.6 Grenzschutz ist Bürgerschutz
@@ -385,9 +368,7 @@ Deutschland soll die EU künftig nicht mehr um Erlaubnis fragen müssen, wo, wan
 
 ## 6.7 EU-Freizügigkeit: Privilegien zurückfahren
 
-Die Freizügigkeitsrichtlinie gewährt EU-Bürgern in Deutschland eine Rechtsstellung, die fast vollständig der deutschen Staatsangehörigkeit entspricht. Das
-
-führt dazu, dass dauerhafte Sozialhilfeempfänger und sogar Schwerverbrecher so gut wie nie abgeschoben werden. Das muss sich ändern. Auch EU-Bürger, die einem andern EU-Staat zur Last fallen oder sich nicht an Gesetze halten, müssen leicht und dauerhaft des Landes verwiesen werden können.
+Die Freizügigkeitsrichtlinie gewährt EU-Bürgern in Deutschland eine Rechtsstellung, die fast vollständig der deutschen Staatsangehörigkeit entspricht. Das führt dazu, dass dauerhafte Sozialhilfeempfänger und sogar Schwerverbrecher so gut wie nie abgeschoben werden. Das muss sich ändern. Auch EU-Bürger, die einem andern EU-Staat zur Last fallen oder sich nicht an Gesetze halten, müssen leicht und dauerhaft des Landes verwiesen werden können.
 
 Teilweise genießen in Deutschland lebende EU-Staatsangehörige sogar mehr Rechte als Deutsche. Diese sogenannte „Inländerdiskriminierung“ muss sofort beendet werden.
 
@@ -418,8 +399,7 @@ Umweltpolitik muss sich zuerst an nationalen Gegebenheiten und Bedürfnissen ori
 
 Von Regierung, etablierten Parteien und der EU wird den Bürgern verkündet, dass Verbrennungsmotoren schlecht und unzeitgemäß seien und dass die Zukunft in der E-Mobilität läge. Um diesen Ansichten Geltung zu verleihen, arbeiten diese mit umstrittenen, als Umweltschutzverbände getarnten, Abmahnvereinen zusammen. Es wird versucht, die seit Jahren sauberer werdende Luft in unseren Städten als gesundheitsgefährdend darzustellen. Dadurch wurden faktisch Millionen Diesel-Fahrer enteignet.
 
-Die Fakten sind: Durch immer bessere Motoren steigt die Luftqualität trotz mehr Verkehr. Der Abgasuntersuchungsausschuss hat festgestellt: Es gibt „keine toxikologisch bedenklichen NO2-Werte“ und: „Es gibt keine wissenschaftlich erwiesenen Zahlen dazu, wie viele Menschen aufgrund grenzwertüberschreitender NO2-Expositionen erkrankt oder gar gestorben sind.“ Auch erscheint die Diskrepanz zwischen dem Grenzwert von 950 μg/m³ an Arbeitsplätzen in Deutschland im Vergleich zum EU-Grenzwert an Straßen von 40 μg/m³ NO2 (USA 100 μg/
-m³) übersteigert. Darüber hinaus werden in Deutschland die EU-Richtlinien nachweislich falsch ausgelegt, um Überschreitungen zu erhalten. Der Bezugsrahmen für Messungen ist veraltet. Verbindliche Vorgaben für Mess-Stationen auf wissenschaftlicher Grundlage sind zu entwickeln. Die AfD sieht weiterhin die Zuständigkeit der EU für Fragen der Luftreinhaltung in den Mitgliedsstaaten für nicht sinnvoll an.
+Die Fakten sind: Durch immer bessere Motoren steigt die Luftqualität trotz mehr Verkehr. Der Abgasuntersuchungsausschuss hat festgestellt: Es gibt „keine toxikologisch bedenklichen NO2-Werte“ und: „Es gibt keine wissenschaftlich erwiesenen Zahlen dazu, wie viele Menschen aufgrund grenzwertüberschreitender NO2-Expositionen erkrankt oder gar gestorben sind.“ Auch erscheint die Diskrepanz zwischen dem Grenzwert von 950 μg/m³ an Arbeitsplätzen in Deutschland im Vergleich zum EU-Grenzwert an Straßen von 40 μg/m³ NO2 (USA 100 μg/m³) übersteigert. Darüber hinaus werden in Deutschland die EU-Richtlinien nachweislich falsch ausgelegt, um Überschreitungen zu erhalten. Der Bezugsrahmen für Messungen ist veraltet. Verbindliche Vorgaben für Mess-Stationen auf wissenschaftlicher Grundlage sind zu entwickeln. Die AfD sieht weiterhin die Zuständigkeit der EU für Fragen der Luftreinhaltung in den Mitgliedsstaaten für nicht sinnvoll an.
 
 Die E-Mobilität bringt derzeit keine Vorteile beim CO2-Ausstoß bzw. bei der Ressourcenschonung. Der propagierte Ausbau der sogenannten Erneuerbaren Energien führt zu einer Vernichtung unserer Natur- und Kulturlandschaften.
 Unter Einbeziehung der Akku-Produktion, die einer Fahrstrecke von 100.000 km entspricht, wird die CO2-Bilanz sogar schlechter. Der Diesel ist auch hier das bessere Konzept.
@@ -438,9 +418,7 @@ Für eine nachhaltige Bewirtschaftung zur Sicherung der Wälder setzt sich die A
 
 ## 7.3 Jagd, Artenschutz und Wildtiermanagement
 
-Die Beeinträchtigung der waidgerechten Jagdausübung durch neue EU-Vorschriften im Jagd-, Waffen- und Lebensmittelrecht sind zu verhindern. Beste
-
-hende Vorschriften sind zu überprüfen und ggf. unter Berücksichtigung der berechtigten Interessen von Landwirten, Wald- und Grundbesitzern und Jägern anzupassen. Schäden durch Wildtiere sind unbürokratisch durch Geldleistungen zu ersetzen. Über die Kombination aus aktivem Wildtiermanagement und artenschutzrechtlicher Ausnahmeverordnung (AAV) sollen problematische Wildtier-Bestandsgrößen regional und zeitnah überwacht und korrigiert werden können. Das Ziel ist die Balance zwischen den Ansprüchen von Wildtieren sowie den Interessen der Landwirte, Teichwirte und Weidetiere. Jedoch wird eine bedingungslose Wiederansiedlung des Wolfs von den Behörden unter Berufung auf die Zielsetzung der EU-Richtlinien zum Natur- und Artenschutz betrieben. Die AfD hält Wölfe für eine Tierart, die schlecht in unsere gewachsene Kulturlandschaft passt. Wölfe sollten räumlich und zahlenmäßig strikt begrenzt werden – nach dem Vorbild von Schweden und Norwegen.
+Die Beeinträchtigung der waidgerechten Jagdausübung durch neue EU-Vorschriften im Jagd-, Waffen- und Lebensmittelrecht sind zu verhindern. Bestehende Vorschriften sind zu überprüfen und ggf. unter Berücksichtigung der berechtigten Interessen von Landwirten, Wald- und Grundbesitzern und Jägern anzupassen. Schäden durch Wildtiere sind unbürokratisch durch Geldleistungen zu ersetzen. Über die Kombination aus aktivem Wildtiermanagement und artenschutzrechtlicher Ausnahmeverordnung (AAV) sollen problematische Wildtier-Bestandsgrößen regional und zeitnah überwacht und korrigiert werden können. Das Ziel ist die Balance zwischen den Ansprüchen von Wildtieren sowie den Interessen der Landwirte, Teichwirte und Weidetiere. Jedoch wird eine bedingungslose Wiederansiedlung des Wolfs von den Behörden unter Berufung auf die Zielsetzung der EU-Richtlinien zum Natur- und Artenschutz betrieben. Die AfD hält Wölfe für eine Tierart, die schlecht in unsere gewachsene Kulturlandschaft passt. Wölfe sollten räumlich und zahlenmäßig strikt begrenzt werden – nach dem Vorbild von Schweden und Norwegen.
 
 ## 7.4 Förderung von Landwirtschaft und ländlichen Räumen
 
@@ -454,8 +432,7 @@ Flächen. Wir fordern ein sofortiges Ende der Vermaisung der Kulturlandschaft un
 
 Ein wirksamer Pflanzenschutz nach guter fachlicher Praxis ist die Grundlage jeglicher landwirtschaftlichen Produktion. Die bewährten Zulassungsstandards im Hinblick auf Umwelt-, Gesundheit- und Verbraucherschutz dürfen dabei weder vernachlässigt noch praxisfern verschärft werden. Eine zentrale Prüf- und Zulassungsbehörde der EU sehen wir kritisch. Die Vielfalt der Prüfbehörden in den Mitgliedsländern stellt das verantwortungsvolle und bewährte „Mehr-Augen-Prinzip“ sicher.
 
-Die AfD fordert die Aufhebung aller Handelsbeschränkungen für alte Nutzpflanzensorten. Bisher müssen Züchter nach Ablauf der Lizenzen sehr hohe Gebühren für die Anmeldung alter Sorten zahlen. Diese Klausel im Saatgutverkehrsgesetz
-(SaatG) schützt lediglich große Konzerne vor der Konkurrenz durch Kleinzüchter.
+Die AfD fordert die Aufhebung aller Handelsbeschränkungen für alte Nutzpflanzensorten. Bisher müssen Züchter nach Ablauf der Lizenzen sehr hohe Gebühren für die Anmeldung alter Sorten zahlen. Diese Klausel im Saatgutverkehrsgesetz (SaatG) schützt lediglich große Konzerne vor der Konkurrenz durch Kleinzüchter.
 
 ## 7.5 Verbraucherschutz
 
@@ -493,9 +470,7 @@ Es muss daher künftig möglich sein, solchen Personen die Einreise zu verweiger
 
 ## 8.2 Keine „Europäisierung“ der Justiz
 
-Seitens der EU wird seit Jahren versucht, in immer mehr Bereiche vorzudringen, die nach den EU-Verträgen nur den Nationalstaaten vorbehalten sind, darunter auch die Polizei und Justiz. So sind EUROPOL und EUROJUST entstanden, deren Koordinierungsaufgaben – soweit sie überhaupt sinnvoll sind – auch mit
-
-deutlich geringerem personellem und finanziellem Aufwand bewältigt werden könnten.
+Seitens der EU wird seit Jahren versucht, in immer mehr Bereiche vorzudringen, die nach den EU-Verträgen nur den Nationalstaaten vorbehalten sind, darunter auch die Polizei und Justiz. So sind EUROPOL und EUROJUST entstanden, deren Koordinierungsaufgaben – soweit sie überhaupt sinnvoll sind – auch mit deutlich geringerem personellem und finanziellem Aufwand bewältigt werden könnten.
 
 Nunmehr ist die Errichtung einer neuen Superbehörde geplant, nämlich der sogenannten Europäischen Staatsanwaltschaft, ohne dass es hierfür einen ernsthaften Bedarf gäbe. Die AfD lehnt eine Europäische Staatsanwaltschaft und die weitere Verlagerung von Aufgaben der Justiz auf die EU ab. Die AfD wendet sich nicht nur gegen alle Versuche der EU, sich die Zentralkompetenzen einer Bundesregierung anzueignen, was weder im Interesse der Bevölkerung der Mitgliedstaaten wäre, noch ihrem Willen entspräche. Die AfD verlangt stattdessen den Rückbau bereits eingerichteter beziehungsweise im Aufbau befindlicher überflüssiger Justizbehörden.
 
@@ -562,8 +537,7 @@ Die EU-Niederlassungsfreiheit darf durch Zuwanderer nicht weiter dazu missbrauch
 
 # 10 | Subsidiarität in der Gesundheitspolitik bewahren
 
-Die Gesundheitspolitik in der Europäischen Union ist bisher vor allem eine Angelegenheit der Nationalstaaten. Infolgedessen war die Einflussnahme der EU auf die deutsche Gesundheitspolitik bis heute eher gering. Es lässt sich allerdings beobachten, dass seit einiger Zeit, insbesondere aufgrund des europäischen Wirtschafts- und Wettbewerbsrechtes, eine weitergehende Einwirkung auf die nationalen Gesundheitssysteme erfolgt, die vorgeblich der „Unterstützung“ der Mitgliedstaaten im Bereich der Gesundheitspolitik dienen soll. Der zunehmende Eingriff der EU ergibt sich dabei weniger durch direkte Einflussnahme der europäischen Gesetzgebung („Lissabon-Vertrag“), sondern eher durch die Hintertür der Rechtsprechung des EuGH, dessen Entscheidungen unmittelbar wirksam sind
-(„Richterrecht“) und zunehmend die Gesundheits- und Sozialpolitik bestimmen.
+Die Gesundheitspolitik in der Europäischen Union ist bisher vor allem eine Angelegenheit der Nationalstaaten. Infolgedessen war die Einflussnahme der EU auf die deutsche Gesundheitspolitik bis heute eher gering. Es lässt sich allerdings beobachten, dass seit einiger Zeit, insbesondere aufgrund des europäischen Wirtschafts- und Wettbewerbsrechtes, eine weitergehende Einwirkung auf die nationalen Gesundheitssysteme erfolgt, die vorgeblich der „Unterstützung“ der Mitgliedstaaten im Bereich der Gesundheitspolitik dienen soll. Der zunehmende Eingriff der EU ergibt sich dabei weniger durch direkte Einflussnahme der europäischen Gesetzgebung („Lissabon-Vertrag“), sondern eher durch die Hintertür der Rechtsprechung des EuGH, dessen Entscheidungen unmittelbar wirksam sind („Richterrecht“) und zunehmend die Gesundheits- und Sozialpolitik bestimmen.
 Obwohl der Lissabon-Vertrag für den Bereich des nationalen Gesundheitswesens ausdrücklich das Subsidiaritätsprinzip betont, wird dieses jedoch durch eine Priorisierung des europäischen Wettbewerbsrechts und der laufenden Rechtsprechung des EuGH konterkariert. Daneben bereitet auch schon die Europäische Normierungsplattform CEN zurzeit eine Strategie zur systematischen Standardisierung von Gesundheitsleistungen vor.
 
 Wir fordern, dem Subsidiaritätsprinzip in der Gesundheitspolitik den Vorrang vor indirekten Einflussnahmen der europäischen Wirtschaftspolitik einzuräumen.
@@ -648,18 +622,14 @@ Wir fordern auf europäischer Ebene eine Streichung der bisher für die Genderfo
 
 ## 11.3 Gesellschaftliche Leistung von Familien würdigen
 
-Die Familie ist die unabdingbare Voraussetzung für den Fortbestand einer Gesellschaft. Von den Leistungen, die innerhalb der Familien erbracht werden, profitieren alle. Die Kosten, die Arbeit und der dafür nötige Verzicht werden aller
+Die Familie ist die unabdingbare Voraussetzung für den Fortbestand einer Gesellschaft. Von den Leistungen, die innerhalb der Familien erbracht werden, profitieren alle. Die Kosten, die Arbeit und der dafür nötige Verzicht werden allerdings in den zunehmend individualistischen europäischen Gesellschaften nur von den Familien getragen. Durch diese Gerechtigkeitslücke entscheiden sich immer weniger Paare für (mehrere) Kinder.
 
-dings in den zunehmend individualistischen europäischen Gesellschaften nur von den Familien getragen. Durch diese Gerechtigkeitslücke entscheiden sich immer weniger Paare für (mehrere) Kinder.
-
-Der rapide Rückgang von Mehrkindfamilien in den Mittelschichten und die hohe Zahl der Kinderlosen unter den Leistungsträgern sind die Hauptgründe für die demografische Krise der westlichen Gesellschaften. Hauptursache hierfür sind wiederum das hohe Armutsrisiko bei Mehrkindfamilien (ab drei Kindern)
-sowie die dramatische Zunahme von – wiederum oft von Armut und Überlastung geplagten – Alleinerziehenden. Prekäre Arbeitsverhältnisse und befristete Arbeitsverträge verschärfen die Situation. Hinzu kommt die sehr geringe Wertschätzung von Eltern und ihrer Erziehungsarbeit durch Politik, Medien, Wirtschaft und Gesellschaft.
+Der rapide Rückgang von Mehrkindfamilien in den Mittelschichten und die hohe Zahl der Kinderlosen unter den Leistungsträgern sind die Hauptgründe für die demografische Krise der westlichen Gesellschaften. Hauptursache hierfür sind wiederum das hohe Armutsrisiko bei Mehrkindfamilien (ab drei Kindern) sowie die dramatische Zunahme von – wiederum oft von Armut und Überlastung geplagten – Alleinerziehenden. Prekäre Arbeitsverhältnisse und befristete Arbeitsverträge verschärfen die Situation. Hinzu kommt die sehr geringe Wertschätzung von Eltern und ihrer Erziehungsarbeit durch Politik, Medien, Wirtschaft und Gesellschaft.
 
 Als einziger Lösungsansatz für das Armutsrisiko wird aktuell die Erwerbstätigkeit beider Elternteile gefordert und gefördert, was Eltern zu doppelter Berufstätigkeit und externer Betreuung nötigt. Dies führt zu einer Überforderung von Mehrkindfamilien, deren Kinder häufig weniger Entwicklungschancen haben.
 Gerade in den ersten drei Lebensjahren ist aus entwicklungspsychologischer Sicht eine externe Betreuung von Kleinkindern problematisch. Tragfähige Konzepte für eine echte Leistungsgerechtigkeit sind nicht erkennbar.
 
-Die AfD fordert daher die Umwidmung europäischer Forschungsmittel für nationale Forschungsprojekte zu einem wirksamen Familienlasten- und
--leistungsausgleich im Kontext der jeweiligen nationalen Steuer- und sozialen Sicherungssysteme. Die Zusammenhänge zwischen einer gezielten Förderung von Mehrkindfamilien und der Geburtenrate sollen systematisch untersucht werden.
+Die AfD fordert daher die Umwidmung europäischer Forschungsmittel für nationale Forschungsprojekte zu einem wirksamen Familienlasten- und -leistungsausgleich im Kontext der jeweiligen nationalen Steuer- und sozialen Sicherungssysteme. Die Zusammenhänge zwischen einer gezielten Förderung von Mehrkindfamilien und der Geburtenrate sollen systematisch untersucht werden.
 Konzepte zur Überwindung realer Benachteiligungen von Familien gegenüber Kinderlosen und zur Verbesserung der Lebensqualität von Familien sind herauszuarbeiten.
 
 ## 11.4 Abtreibung ist kein Menschenrecht
@@ -696,9 +666,7 @@ Diese Regelung sollte europaweit umgesetzt werden.
 
 # 12 | Bildung und Kultur
 
-Ein leistungsorientiertes Bildungswesen, das sich an den unterschiedlichen Traditionen und Bedürfnissen der Nationalstaaten ausrichtet, ist die Grundlage unseres Wohlstands und wesentlicher Bestandteil unserer Kultur. Bildungspolitik
-
-- Politik für Schule, Berufsausbildung und Hochschule – muss daher in nationaler Kompetenz verbleiben. Den Einfluss von internationalen Organisationen, Konzernen und Lobbygruppen auf unser Bildungswesen lehnen wir entschieden ab.
+Ein leistungsorientiertes Bildungswesen, das sich an den unterschiedlichen Traditionen und Bedürfnissen der Nationalstaaten ausrichtet, ist die Grundlage unseres Wohlstands und wesentlicher Bestandteil unserer Kultur. Bildungspolitik – Politik für Schule, Berufsausbildung und Hochschule – muss daher in nationaler Kompetenz verbleiben. Den Einfluss von internationalen Organisationen, Konzernen und Lobbygruppen auf unser Bildungswesen lehnen wir entschieden ab.
 Insgesamt müssen sich die Standards des Bildungswesens an den Anforderungen der jeweils weiterführenden nationalen Bildungseinrichtungen orientieren, damit der angestrebte Übergang erfolgreich gelingen kann. Wir fordern die Abkehr von geschwätziger Kompetenzorientierung und die Rückkehr zur Vermittlung des Fachwissens als zentrales Anliegen von Bildungseinrichtungen. An den Hochschulen in den Mitgliedsstaaten ist die jeweilige Landessprache als Lehrsprache zu erhalten.
 
 Der Versuch, Studiengänge im Rahmen des Bologna-Prozesses EU-weit anzugleichen, ist gescheitert und hat zu einer Verschulung des Studiums, einer Absenkung des Niveaus, vermehrter Bürokratie und einem Verlust an akademischer Freiheit für Studenten und Dozenten geführt. Die Vergleichbarkeit von Abschlüssen in der hohen Zahl von Studiengängen wurde durch den Zwang zur Profilierung sogar deutlich erschwert. Die EU beabsichtigt, den Bologna-Prozess weiter auszubauen, Bildungsangebote an kurzlebigen ökonomischen und politischen Interessen auszurichten, den wissenschaftlichen Charakter eines Studiums auszuhöhlen und Einfluss auf die Gestaltung der Curricula zu nehmen. Das Ziel der EU, die Bildungspolitik zu zentralisieren und einer länderübergreifenden Kontrolle zu unterwerfen, lehnen wir entschieden ab. Die AfD fordert ausschließlich nationale Zuständigkeiten in der Bildungspolitik. Ebenso muss die Entscheidung über die Anerkennung ausländischer Abschlüsse den Nationalstaaten vorbehalten bleiben.
@@ -732,9 +700,7 @@ Digitalisierung betrifft nicht nur die Zukunft von Arbeit und Produktion. Sie gr
 
 ## 12.6 Gender-Mainstreaming abschaffen
 
-Die Umsetzung des Gender-Mainstreaming ist seit dem Vertrag von Amsterdam 1997 verpflichtend für alle Mitgliedsstaaten der EU. Kern der Gender-Ideologie ist die Leugnung von biologischen Unterschieden zwischen Mann und Frau,
-
-verbunden mit der Behauptung, dass Geschlechter nur soziale Konstrukte seien.
+Die Umsetzung des Gender-Mainstreaming ist seit dem Vertrag von Amsterdam 1997 verpflichtend für alle Mitgliedsstaaten der EU. Kern der Gender-Ideologie ist die Leugnung von biologischen Unterschieden zwischen Mann und Frau, verbunden mit der Behauptung, dass Geschlechter nur soziale Konstrukte seien.
 Unterschiede etwa bei der Auswahl und Ausübung von Berufen werden als Beweis einer vermeintlichen Diskriminierung betrachtet und deren Beseitigung gefordert.
 Diese Ideologie entwertet die für den Bestand der Gesellschaft unverzichtbare Familie und verunsichert Kinder in ihrer sexuellen Identität. Behauptungen dieser Weltanschauung stehen im Widerspruch zu wissenschaftlichen Erkenntnissen der Biologie und der Entwicklungspsychologie. Wir fordern, aus der Amsterdamer Verpflichtungserklärung auszusteigen. Wir befürworten die Gleichberechtigung und lehnen daher eine einseitige, geschlechterspezifische Förderung ab. Das sogenannte Gender-Budgeting als fiskalisches Instrument zur Durchsetzung des Gender-Mainstreaming in den Haushalten der EU und der Mitgliedsstaaten lehnen wir ab, weil sich öffentliche Ausgaben nicht den Geschlechtern zuordnen lassen.
 Die staatliche Förderung der sogenannten Genderwissenschaft ist zu beenden. Bei der Besetzung von Stellen muss allein die fachliche Qualifikation des Bewerbers entscheiden. Wir lehnen die unnatürliche Umgestaltung der deutschen Sprache als Mittel zur Durchsetzung der Gender-Ideologie ab. In einem freien Europa darf es keinen staatlichen Zwang zur Verwendung einer politisch korrekten Sprache geben.
@@ -760,9 +726,7 @@ Dabei sind das Goethe-Institut und andere kulturpolitische Institutionen einzube
 
 ## 12.10 Auswärtige Kulturpolitik
 
-Anliegen der AfD ist es, die deutsche Kultur und Sprache im Ausland deutlich stärker zu fördern. Goethe-Institute und zahlreiche regionale Kulturprojekte in aller Welt sollen ein positives Bild Deutschlands vermitteln. Neue Trends in der Gesellschaft wie auch das reichhaltige, kulturelle Erbe stehen für die Attraktivität unseres Landes. Der grundsätzliche Auftrag der Goethe-Institute, deutsche Sprache und Kultur im Ausland zu vermitteln, darf nicht verwässert werden. Die AfD lehnt die Planungen der deutschen Bundesregierung zur Finanzierung afrikanischer Museen genauso ab wie eine enge Zusammenarbeit mit dem französischen Pendant Institut français. Zusätzlich fordert die AfD, das Hauptprogramm der Deutschen Welle
-
-jederzeit und weltweit auch wieder in deutscher anstatt nur in englischer Sprache auszustrahlen.
+Anliegen der AfD ist es, die deutsche Kultur und Sprache im Ausland deutlich stärker zu fördern. Goethe-Institute und zahlreiche regionale Kulturprojekte in aller Welt sollen ein positives Bild Deutschlands vermitteln. Neue Trends in der Gesellschaft wie auch das reichhaltige, kulturelle Erbe stehen für die Attraktivität unseres Landes. Der grundsätzliche Auftrag der Goethe-Institute, deutsche Sprache und Kultur im Ausland zu vermitteln, darf nicht verwässert werden. Die AfD lehnt die Planungen der deutschen Bundesregierung zur Finanzierung afrikanischer Museen genauso ab wie eine enge Zusammenarbeit mit dem französischen Pendant Institut français. Zusätzlich fordert die AfD, das Hauptprogramm der Deutschen Welle jederzeit und weltweit auch wieder in deutscher anstatt nur in englischer Sprache auszustrahlen.
 
 Die auswärtige Kulturpolitik Deutschlands muss das Ziel verfolgen, Brücken zu anderen Völkern zu bauen. Wirtschaft, Politik, Kultur und nicht zuletzt der Tourismus werden davon profitieren. Ein besseres Verständnis unserer kulturellen Werte, Traditionen und Geschichte soll auch dem Ziel dienen, Vertrauen zu schaffen und Deutschland als zuverlässigen Partner zu empfehlen. Deutsche Kulturvereine und Auslandsschulen können dabei einen wichtigen Beitrag leisten.
 
@@ -779,8 +743,7 @@ Ohne CO2, einem Hauptbestandteil der Photosynthese, gäbe es keine Pflanzen, Tie
 
 Die AfD lehnt die Pariser Klimavereinbarung ab, die als unverbindliche Absichtserklärung ohne Sanktionen eine Verschiebung von Geldmitteln der hochindustrialisierten Länder hin zu unterentwickelten Ländern vorsieht. Ferner lehnt die AfD alle EU-Maßnahmen ab, welche die Reduzierung von CO2-Emissionen mit dem Schutz des Klimas begründen. Der Handel mit CO2-Zertifikaten ist einzustellen, denn er bewirkt nur einen weiteren Anstieg der Energiepreise.
 
-Die von der EU und der deutschen Bundesregierung angestrebte Dekarbonisierung, inzwischen als „Große Transformation von Wirtschaft und Gesellschaft“
-propagiert, wird nicht nur zur Reduzierung der Wirtschaftskraft Deutschlands führen, sondern entwickelt sich zunehmend zu einer illegitimen gesellschaftlichen Wende hin zu einem ökologistischen Planungs- und Zwangsstaat mit gewollter Mangelwirtschaft.
+Die von der EU und der deutschen Bundesregierung angestrebte Dekarbonisierung, inzwischen als „Große Transformation von Wirtschaft und Gesellschaft“ propagiert, wird nicht nur zur Reduzierung der Wirtschaftskraft Deutschlands führen, sondern entwickelt sich zunehmend zu einer illegitimen gesellschaftlichen Wende hin zu einem ökologistischen Planungs- und Zwangsstaat mit gewollter Mangelwirtschaft.
 
 Die EU treibt seit Jahren die Umrüstung der Stromnetze zwischen Verbrauchern und Energieerzeugern in sogenannte intelligente Netze (Smart Grids) voran.
 Dahinter steckt das Ziel, den bislang nachfrageorientierten Energiemarkt in einen angebotsorientierten umzuwandeln, das heißt der Stromverbrauch soll der ständig schwankenden Stromerzeugung durch die „Erneuerbaren Energiequellen“ angepasst werden.
@@ -789,14 +752,11 @@ Die AfD wird sich im EU-Parlament für die ersatzlose Streichung aller Richtlini
 
 Ein breiter Energiemix aus Kohle, Mineralöl, Erdgas, Wasserkraft und Kernkraft ist Voraussetzung zum Erreichen des Zieldreiecks einer versorgungssicheren, wirtschaftlichen und umweltverträglichen Energiepolitik. Braunkohle ist der einzige kostengünstige und langfristig verfügbare inländische Energieträger von Bedeutung. Die EU und die Bundesregierung bereiten mit Hilfe der CO2-Zertifikate-Politik und über eine Besetzung der deutschen Kohlekommission mit Fachfremden und grünen Ideologen den Kohleausstieg vor. Nach dem Abschalten der Kernkraftwerke wäre dies das Ende einer sozial orientierten und wettbewerbsfähigen Energieversorgung in Deutschland.
 
-Die „Erneuerbaren Energien“ Wind und Sonne hängen vom Wetter, den Tagesund Jahreszeiten ab und ihre Erträge sind nicht kalkulierbar. Eine Speicherung von Strom für den Ausgleich der ständig schwankenden „Erneuerbaren Energien“
-bis hin zu längeren Dunkelflauten ohne Wind und Sonne ist wirtschaftlich nicht möglich. Bedingt durch ihre geringen Leistungsdichten haben diese „Erneuerbaren“ einen hohen Flächen- und Materialverbrauch und sind im großen Maßstab schädlich für Mensch, Natur und Umwelt. Kohle-, Kern- und Gaskraftwerke sollen in Betrieb bleiben, solange deren Betreiber es unter marktwirtschaftlichen Bedingungen für sinnvoll halten.
+Die „Erneuerbaren Energien“ Wind und Sonne hängen vom Wetter, den Tagesund Jahreszeiten ab und ihre Erträge sind nicht kalkulierbar. Eine Speicherung von Strom für den Ausgleich der ständig schwankenden „Erneuerbaren Energien“ bis hin zu längeren Dunkelflauten ohne Wind und Sonne ist wirtschaftlich nicht möglich. Bedingt durch ihre geringen Leistungsdichten haben diese „Erneuerbaren“ einen hohen Flächen- und Materialverbrauch und sind im großen Maßstab schädlich für Mensch, Natur und Umwelt. Kohle-, Kern- und Gaskraftwerke sollen in Betrieb bleiben, solange deren Betreiber es unter marktwirtschaftlichen Bedingungen für sinnvoll halten.
 
 Die AfD setzt sich im Interesse einer sinnvollen Ressourcen-Erweiterung sowohl für den Ausbau der Pipeline Nord Stream 2 als auch für Häfen mit geeigneten Terminals für den Bezug von Flüssig-Erdgas (LNG) ein.
 
-Der Einsatz fossiler Energieträger kann mittel- und langfristig vor allem durch die Weiternutzung der emissionsfreien Kernkraft reduziert werden. Die Erzeugung von Strom durch Kernenergie gehört heute zu den sichersten Technologien. Für die in Deutschland bewusst offen gehaltene Entsorgung von hochradioaktiven Brennelementen, des sogenannten Atommülls, gibt es Lösungen. Anlagen in Finnland zeigen, dass eine geologisch gesicherte Endlagerung realisierbar ist. Mit den in Russland seit Jahren arbeitenden natriumgekühlten Reaktoren können die Brennelemente erheblich effektiver genutzt werden, sodass deren Reststrahlung stark reduziert wird. Reaktortypen mit flüssigem Brennstoff, wie sie derzeit in Frankreich, Kanada, den USA und weiteren Ländern entwickelt werden, erlauben eine kosteneffiziente integrierte Aufarbeitung, die ein geologisches Endlager gänz
-
-lich überflüssig machen könnte. Die AfD fordert, dass sich Deutschland wieder an der weit fortgeschrittenen Entwicklung neuartiger Typen von Kernreaktoren beteiligt.
+Der Einsatz fossiler Energieträger kann mittel- und langfristig vor allem durch die Weiternutzung der emissionsfreien Kernkraft reduziert werden. Die Erzeugung von Strom durch Kernenergie gehört heute zu den sichersten Technologien. Für die in Deutschland bewusst offen gehaltene Entsorgung von hochradioaktiven Brennelementen, des sogenannten Atommülls, gibt es Lösungen. Anlagen in Finnland zeigen, dass eine geologisch gesicherte Endlagerung realisierbar ist. Mit den in Russland seit Jahren arbeitenden natriumgekühlten Reaktoren können die Brennelemente erheblich effektiver genutzt werden, sodass deren Reststrahlung stark reduziert wird. Reaktortypen mit flüssigem Brennstoff, wie sie derzeit in Frankreich, Kanada, den USA und weiteren Ländern entwickelt werden, erlauben eine kosteneffiziente integrierte Aufarbeitung, die ein geologisches Endlager gänzlich überflüssig machen könnte. Die AfD fordert, dass sich Deutschland wieder an der weit fortgeschrittenen Entwicklung neuartiger Typen von Kernreaktoren beteiligt.
 
 ## 13.2 Technik, Innovation und Forschung
 
@@ -824,8 +784,7 @@ Die seit dem 21. März 2016 in Deutschland umgesetzte Wohnimmobilienkreditrichtl
 
 #### Richtlinie zur Gesamtenergieeffizienz von Gebäuden
 
-Die erst im April 2018 nochmals verschärfte Richtlinie zur Gesamtenergieeffizienz von Gebäuden sieht u. a. die Einführung eines „Niedrigst-Energiegebäudes“
-als Standard für alle Neubauten ab 2021 und für behördliche Bauten ab 2019 vor.
+Die erst im April 2018 nochmals verschärfte Richtlinie zur Gesamtenergieeffizienz von Gebäuden sieht u. a. die Einführung eines „Niedrigst-Energiegebäudes“ als Standard für alle Neubauten ab 2021 und für behördliche Bauten ab 2019 vor.
 Dies erfordert große Mengen Dämmmaterial (Sondermüll), birgt die Gefahr von Schimmelbildung in Gebäuden, führt zu erheblich höheren Baukosten und damit zu unnötig hohen Mieten, ohne den Nachweis zu erbringen, dass die Kosten/Nutzen Bilanz sowie die Energieeinsparungs- und CO2-Bilanz positiv nachgewiesen wurden.
 
 Diese verordnete Energiepolitik führt zu massiven Eingriffen in die Planungsund Gestaltungsfreiheit der Mitgliedstaaten. Dies widerspricht elementar dem Subsidiaritätsprinzip. Es kann keine EU-Richtlinien für Gebäude und Städteplanung geben, die passend sind für Nordfinnland bis Sizilien und für Portugal bis Rumänien. Wir befürworten alle Möglichkeiten zur Energie- und Kosteneinsparung, aber wir wollen eine technologieoffene Entscheidungsbefugnis.
@@ -871,25 +830,19 @@ Der entscheidende Nachteil der E-Mobilität gegenüber den Verbrennern besteht i
 
 Weiterhin wären bei dem Verbot von Verbrennern und weitgehender Umstellung auf E-Mobilität zusätzlich etwa 40 Großkraftwerke oder zehntausende von Windenergieanlagen erforderlich. Letztere sind allerdings weitgehend untauglich, solange es keine Großspeicher für den unstet erzeugten Ökostrom gibt.
 
-Der Gebrauchswert von elektrisch betriebenen Automobilen ist nach wie vor meilenweit von den mit Verbrenner betriebenen Fahrzeugen entfernt. Das 2008 von der Bundesregierung verkündete Ziel, 2020 eine Million E-Mobile auf deutsche Straßen zu bringen, wird verfehlt. Trotz millionenschwerer Subventionen und
-
-mit Falschmeldungen (Fake News) unterlegter Propaganda gegen die Verbrenner, konnten die Kunden nicht zum Kauf von, für die individuelle Mobilität untauglichen, E-Fahrzeugen überzeugt werden.
+Der Gebrauchswert von elektrisch betriebenen Automobilen ist nach wie vor meilenweit von den mit Verbrenner betriebenen Fahrzeugen entfernt. Das 2008 von der Bundesregierung verkündete Ziel, 2020 eine Million E-Mobile auf deutsche Straßen zu bringen, wird verfehlt. Trotz millionenschwerer Subventionen und mit Falschmeldungen (Fake News) unterlegter Propaganda gegen die Verbrenner, konnten die Kunden nicht zum Kauf von, für die individuelle Mobilität untauglichen, E-Fahrzeugen überzeugt werden.
 
 Die AfD hält synthetische Kraftstoffe für eine interessante Alternative zu erdölbasierten Kraftstoffen, allerdings derzeitig nicht für marktwirtschaftlich realisierbar. Wir lehnen deshalb deren Zwangseinführung genauso ab, wie die Zwangsbeimischung von Bioethanol in herkömmliche Kraftstoffe (E5 und E10). Auch sind wir gegen eine über Forschung hinausgehende Subvention dieser Kraftstoffe. Dies muss wie bei der E-Mobilität der faire Wettbewerb am freien Markt regeln.
 
 ## 13.5 Digitalisierung
 
-Die sich seit einigen Jahren zusehends beschleunigende Digitalisierung muss von der Politik auf nationaler und europäischer Ebene besser begleitet werden. Die bisherigen Digitalisierungsinitiativen und -aktivitäten der EU sehen wir kritisch, weil sie immer auch überwachende oder zensierende Maßnahmen zum Inhalt hatten. Diese bedrohen zunehmend nicht nur die Freiheit der Bürger, sondern auch den Wirtschaftsstandort Europa. Überbürokratisierung kostet Milliarden von EURO und verhindert Unternehmensgründungen und die Entwicklung neuer digitaler Techniken und Produkte. Die Datenschutz-Grundverordnung (DSGVO)
-steht exemplarisch für die völlige Fehlentwicklung von Regularien. Weitere in Arbeit befindliche Verordnungen wie die Reform des Urheberrechts und die Maßnahmen zur Umsetzung (Upload-Filter, Leistungsschutzrecht) oder die Pläne zur
-“Beweissicherung in der Cloud” und Zugriff (Cloud-Act) durch die USA sind nicht im Interesse der europäischen Bürger.
+Die sich seit einigen Jahren zusehends beschleunigende Digitalisierung muss von der Politik auf nationaler und europäischer Ebene besser begleitet werden. Die bisherigen Digitalisierungsinitiativen und -aktivitäten der EU sehen wir kritisch, weil sie immer auch überwachende oder zensierende Maßnahmen zum Inhalt hatten. Diese bedrohen zunehmend nicht nur die Freiheit der Bürger, sondern auch den Wirtschaftsstandort Europa. Überbürokratisierung kostet Milliarden von EURO und verhindert Unternehmensgründungen und die Entwicklung neuer digitaler Techniken und Produkte. Die Datenschutz-Grundverordnung (DSGVO) steht exemplarisch für die völlige Fehlentwicklung von Regularien. Weitere in Arbeit befindliche Verordnungen wie die Reform des Urheberrechts und die Maßnahmen zur Umsetzung (Upload-Filter, Leistungsschutzrecht) oder die Pläne zur “Beweissicherung in der Cloud” und Zugriff (Cloud-Act) durch die USA sind nicht im Interesse der europäischen Bürger.
 
 ### 13.5.1 Digitalisierung aktiv gestalten: für Verbraucher und für Unternehmen
 
 Die Nutzung von IT und Internet kann langfristig nur erfolgreich sein, wenn digitale Netze und Angebote vertrauenswürdig sind und die Privatsphäre der Benutzer gewahrt ist. Wir unterstützen Maßnahmen zur Stärkung der informationellen Selbstbestimmung und den Einsatz leistungsfähiger Verschlüsselungstechniken (Kryptographie). Regulatorische Maßnahmen müssen mit Augenmaß erfolgen und dürfen nicht zu unverhältnismäßigen Rechtsrisiken für Unternehmen und Dienstanbieter führen. Besonders für den Mittelstand ist es wichtig, Mehraufwände aus datenschutzrechtlichen Anforderungen zu begrenzen.
 
-Die Freiheitsrechte der Bürger dürfen durch Digitalisierung nicht eingeschränkt werden. Der Umgang mit Behörden oder die Nutzung öffentlicher Einrichtungen
-
-muss auch ohne digitale Identität möglich sein. Die Nutzung von digitalen Systemen zur Erfassung von Verbrauchs- oder Bewegungsprofilen (wie z.B. “Smart Meter”, “eCall”) muss freiwillig sein.
+Die Freiheitsrechte der Bürger dürfen durch Digitalisierung nicht eingeschränkt werden. Der Umgang mit Behörden oder die Nutzung öffentlicher Einrichtungen muss auch ohne digitale Identität möglich sein. Die Nutzung von digitalen Systemen zur Erfassung von Verbrauchs- oder Bewegungsprofilen (wie z.B. “Smart Meter”, “eCall”) muss freiwillig sein.
 
 Mit Blick auf die zunehmende Zahl komplexer internetfähiger Geräte (Smartphones, „Internet of Things“) erachten wir eine Stärkung des Verbraucherschutzes und der IT-Sicherheit als notwendig. Wir möchten die gesetzliche Gewährleistungspflicht für langlebige internetfähige Geräte verlängern und sachlich ausweiten, insbesondere durch Schaffung eines Rechtsanspruches auf Sicherheitsupdates. Gleichzeitig sollen Verbraucher und kleine und mittelständische Unternehmen besser über IT-Sicherheit informiert werden.
 

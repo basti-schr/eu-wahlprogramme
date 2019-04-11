@@ -2,7 +2,6 @@ KOMMT ZUSAMMEN UND MACHT EUROPA STARK!
 
 # WAHLPROGRAMM FÜR DIE EUROPAWAHL AM 26. MAI 2019
 
-
 # I. Einleitung
 
 Die europäische Idee bleibt der bedeutendste politische und zivilisatorische Fortschritt des vergangenen Jahrhunderts: Freiheit, Demokratie und Menschenrechte, wirtschaftliche Zusammenarbeitund politische Partnerschaft über nationale Grenzen hinweg. Einlang anhaltender Frieden auf unserem von Jahrhunderten der Kriege erschütterten Kontinent. Die europäische Idee ist die Antwortauf die großen Aufgaben der Gegenwart und Zukunft.
@@ -30,8 +29,7 @@ Kommt zusammen! Es geht um viel. Gemeinsam machen wir Europa besser -sozial, dem
 # II. Für ein Europa, das zusammenhält
 
 Unser Europa ist in Gefahr. Wir sehen alle die Fliehkräfte und Bedrohungen, denen es ausgesetzt ist: Den Angriffen Russlands aufdas Völkerrecht und die Staatensouveränität benachbarter Staaten.
-Dem Egoismus von „America First“ und dem nicht nur wirtschaftlichen Chauvinismus des US-amerikanischen Präsidenten. Einem China, das uns weismachen will, dass auch ohne Freiheit, Demokratieund Rechtsstaatlichkeit der geldwerte Wohlstand erstrebenswertist. Auch im Inneren zerren der Rechtspopulismus und der Nationalismus an der Einheit der Europäer und Europäerinnen, die sichgemeinsam geschworen haben, nie wieder gegeneinander ins Feldzu ziehen. Wir Sozialdemokratinnen und Sozialdemokraten wissen:
-„Nationalismus bedeutet Krieg! [„Le nationalisme, c’est la guerre“, François Mitterand in seiner letzten Rede vor dem Europäischen Parlament am 17. Januar 1995 in Straßburg.] “. Und nur wir können dafür sorgen, dass Europa auch in Zukunft diesen Bedrohungen standhält.
+Dem Egoismus von „America First“ und dem nicht nur wirtschaftlichen Chauvinismus des US-amerikanischen Präsidenten. Einem China, das uns weismachen will, dass auch ohne Freiheit, Demokratieund Rechtsstaatlichkeit der geldwerte Wohlstand erstrebenswertist. Auch im Inneren zerren der Rechtspopulismus und der Nationalismus an der Einheit der Europäer und Europäerinnen, die sichgemeinsam geschworen haben, nie wieder gegeneinander ins Feldzu ziehen. Wir Sozialdemokratinnen und Sozialdemokraten wissen: „Nationalismus bedeutet Krieg! [„Le nationalisme, c’est la guerre“, François Mitterand in seiner letzten Rede vor dem Europäischen Parlament am 17. Januar 1995 in Straßburg.] “. Und nur wir können dafür sorgen, dass Europa auch in Zukunft diesen Bedrohungen standhält.
 
 Aber wir gemeinsam können dafür sorgen, dass Europa auch in Zukunft zusammenhält. Gemeinsam können wir den Nationalismusbesiegen. Der Zusammenhalt ist der Schlüssel um Zukunftsängste, Unruhen und krisenhafte Entwicklungen in einzelnen Mitgliedsstaaten zu begegnen. Er kommt nicht von selbst. Zusammenhaltin Europa setzt Verständigung voraus. Wir dürfen uns nicht ausschließlich von unseren kurzfristigen vermeintlichen nationalen Interessen leiten lassen. Gerade Deutschland muss immer auchden Ausgleich zwischen den Mitgliedsstaaten und den Zusammenhalt des Ganzen im Auge haben.
 
@@ -81,8 +79,7 @@ Die unterschiedlichen Körperschaftssteuern werden angeglichen. In Europa soll e
 
 Mindeststeuersätze werden eingeführt. Wir müssen ein Mindestniveau der Besteuerung vereinbaren und so sicherstellen, dass alle einen fairen Beitrag zur Finanzierung der Staatsaufgaben leisten. Damit ziehen wir eine untere Grenze ein, um den Steuerwettbewerb nach unten zu unterbinden.
 
-Die digitale Wirtschaft wird gerecht besteuert. Es ist ein gesellschaftspolitischer Skandal, dass sich vor allem die Internetgiganten noch immer einer gerechten Besteuerung weitgehendentziehen. Auch die digitalen Unternehmen müssen ihren Beitrag zur Finanzierung des Gemeinwesens leisten. Diese sindweltweit aktiv und verschieben ihre Gewinne häufig in Niedrigsteuerländer. Das wollen wir beenden und bis Ende 2020 eineglobale Mindestbesteuerung der digitalen Unternehmen einführen. Gleichzeitig treiben wir eine europäische Lösung voran
-- für den Fall, dass die internationale Lösung nicht zu erreichenist. Den gemeinsamen deutsch-französischen Vorschlag für eine Besteuerung der digitalen Wirtschaft ab dem 1. Januar 2021wollen wir zügig in Europa umsetzen. Dafür streiten wir imnächsten Europäischen Parlament. Die Frage der Steuergerechtigkeit wird ein Schwerpunkt der deutschen Ratspräsidentschaftim 2. Halbjahr 2020.
+Die digitale Wirtschaft wird gerecht besteuert. Es ist ein gesellschaftspolitischer Skandal, dass sich vor allem die Internetgiganten noch immer einer gerechten Besteuerung weitgehendentziehen. Auch die digitalen Unternehmen müssen ihren Beitrag zur Finanzierung des Gemeinwesens leisten. Diese sindweltweit aktiv und verschieben ihre Gewinne häufig in Niedrigsteuerländer. Das wollen wir beenden und bis Ende 2020 eineglobale Mindestbesteuerung der digitalen Unternehmen einführen. Gleichzeitig treiben wir eine europäische Lösung voran - für den Fall, dass die internationale Lösung nicht zu erreichen ist. Den gemeinsamen deutsch-französischen Vorschlag für eine Besteuerung der digitalen Wirtschaft ab dem 1. Januar 2021wollen wir zügig in Europa umsetzen. Dafür streiten wir imnächsten Europäischen Parlament. Die Frage der Steuergerechtigkeit wird ein Schwerpunkt der deutschen Ratspräsidentschaftim 2. Halbjahr 2020.
 
 Der Kampf gegen Steuerflucht wird verschärft durch automatische Meldepflichten für Banken, das Einfrieren verdächtiger Guthaben und verbesserte Strafverfolgung gegen Steuerhinterziehung.
 
@@ -115,9 +112,7 @@ Die Interessen der Städte und Kommunen werden besser berücksichtigt. Das betri
 Den ländlichen Raum deutlicher stärken. Die technische undsoziale Infrastruktur muss in Europa auch im ländlichen Raumweiter ausgebaut werden, um ihn insbesondere für junge Menschen und Familien attraktiv zu halten. Für gleichwertige Lebensverhältnisse, gerade auch in Ostdeutschland ist die EU-Regionalpolitik weiterhin von großer Bedeutung. In der nächsten Förderperiode bedarf es daher einer entsprechenden Mittelausstattung. Doppelstrukturen in den europäischen Strukturfonds werden wir hierzu abbauen, um den ländlichen Raumzielgerichteter, effizienter und unbürokratischer zu stärken. Die Regionalförderung und Beteiligungen sollte zudem ein wichtiger Bestandteil einer neu zu konzipierenden EU-Industriepolitiksein. Als Faktor der Standortsicherung sollte sie mit einer Weiterentwicklung von qualifizierter Mitbestimmung auf EU-Ebeneverbunden werden.
 
 Den Euro stark halten und Mitgliedsstaaten früher und entschlossener helfen , wenn sie in eine Krise zu rutschen drohen.
-Dafür werden wir den Europäischen Stabilitätsmechanismus
-
-(ESM) zu einem parlamentarisch kontrollierten Europäischen Währungsfonds (EWF) weiterentwickeln, damit er künftig früher helfen kann und nicht erst, wenn die Krise da ist, mit hohenpolitischen, ökonomischen und sozialen Kosten. Niemand weiß, wann die nächste Wirtschaftskrise Europa oder die Welt erschüttert. Deshalb müssen wir uns vorbereiten.
+Dafür werden wir den Europäischen Stabilitätsmechanismus (ESM) zu einem parlamentarisch kontrollierten Europäischen Währungsfonds (EWF) weiterentwickeln, damit er künftig früher helfen kann und nicht erst, wenn die Krise da ist, mit hohenpolitischen, ökonomischen und sozialen Kosten. Niemand weiß, wann die nächste Wirtschaftskrise Europa oder die Welt erschüttert. Deshalb müssen wir uns vorbereiten.
 
 Steuerzahlerinnen und Steuerzahler sollen nirgendwo in Europamehr für Bankenpleiten bezahlen. Eine Bankenkrise darf nichtwieder zu einer Staatsschuldenkrise werden. Hierfür werden wirdie fatale Kopplung zwischen Staaten und Banken weiter auflösen. Dazu werden wir die Bankenunion weiter vertiefen und u.a. eine gemeinsame Letztsicherung für den Bankenabwicklungsfonds schaffen.
 
@@ -478,8 +473,7 @@ Der Schutz von Nutzerinnen und Nutzern, Verbraucherinnen und Verbrauchern, muss 
 
 Was wir machen:
 
-Vorrang für die Privatsphäre der digitalen Welt – Schutz desdigitalen Briefgeheimnisses. Wer im Internet unterwegs ist, soll besser vor unerwünschter Werbung und Nachspionieren
-(„tracking“) geschützt werden. Die Vertraulichkeit unserer elektronischen Kommunikation werden wir zudem besser schützen.
+Vorrang für die Privatsphäre der digitalen Welt – Schutz desdigitalen Briefgeheimnisses. Wer im Internet unterwegs ist, soll besser vor unerwünschter Werbung und Nachspionieren („tracking“) geschützt werden. Die Vertraulichkeit unserer elektronischen Kommunikation werden wir zudem besser schützen.
 Dafür überwinden wir die konservativen Widerstände gegendie E-Privacy-Verordnung, so dass der Rat der Ministerinnenund Minister endlich über die Verordnung entscheiden kannund werden uns gegen Vorschläge stellen, E-Mails und Messenger-Nachrichten auf unzulässige Inhalte verdachtslos undflächendeckend durchsuchen zu lassen – etwa zum Auffindenpotentieller strafbarer Inhalte.
 
 Alltagsgeschäfte auch online anonym bezahlen. Über die bargeldlose Bezahlung ist das Erstellen von persönlichen Profilenmöglich. Verbraucherinnen und Verbraucher müssen in der Lagesein, bei Alltagsgeschäften online anonym zu bezahlen – in dem Rahmen, in dem dies auch bei Bargeldzahlungen möglich ist.
@@ -761,5 +755,3 @@ Einführung eines Europäischen Vereinsstatuts. Mit der Einführung eines europ�
 Förderung europäischer Medien, um eine wirkliche europäischeÖffentlichkeit zu schaffen. Wir brauchen mehr europäischeÖffentlichkeit, um mehr Informationen über Europa und einstärkeres gemeinsames europäisches Bewusstsein entstehenzu lassen. Darüber hinaus benötigen wir einen europäischenöffentlich-rechtlichen Rundfunk für das 21. Jahrhundert. Hierfür sollte eine attraktive europaweite Plattform für vorhandene öffentlich-rechtliche Inhalte geschaffen und um genuineuropäische Inhalte ergänzt werden. Passend dazu soll die EUMedienkonzepte fördern, die zum Ziel haben, die Sprachbarrieren in Europa zu überwinden und eine europaweite Informationsbeschaffung sowie einen grenzüberschreitenden Dialog zuermöglichen. Zudem sollten in europäischer Kooperation überzeugende öffentlich-rechtliche Fernsehangebote auf Russisch, Türkisch und Arabisch entwickelt werden, die sich gleichermaßen an Einwanderer und Einwanderinnen sowie die Staaten dereuropäischen Nachbarschaft richten und damit die europäische Wertegemeinschaft befördern.
 
 Wir wollen den Europatag 9. Mai zu einem gemeinsamen europäischen Feiertag umwandeln.
-
-
