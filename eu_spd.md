@@ -157,7 +157,7 @@ Wir brauchen ein faires Europa, das schützt. Das betrifft auch die Sicherheit a
 
 Was wir machen:
 
-Maßnahmen gegen Mitbestimmungsflucht von Unternehmen :
+Maßnahmen gegen Mitbestimmungsflucht von Unternehmen:
 Für alle Unternehmen europäischen Rechts werden Mindeststandards zur Unternehmensmitbestimmung geschaffen. Das giltbesonders für die Europäische Aktiengesellschaft. Das gleiche giltfür die grenzüberschreitende Umwandlung, Verschmelzung oder Spaltung von Unternehmen mit unterschiedlichen nationalen Rechtsformen.
 
 Die Tarifbindung wird dadurch gestärkt, dass Tariftreue künftigbesonders positiv im Ausschreibungs- und Vergabeverfahren vorausgesetzt wird. Unternehmen, die als Sozialpartner anständigbezahlen, sollen nicht das Nachsehen haben gegenüber denjenigen, die auf Kosten der Beschäftigten Lohndumping betreiben.
@@ -546,7 +546,7 @@ Mobilität und Verkehr ist für die Teilhabe an der Gesellschaft unabdingbar. Eu
 
 Was wir machen:
 
-Europäische Verkehrsachsen stärken und ausbauen. Die Straßenund die Schienenwege müssen überall in der EU verbessert werden. Zudem ist der Bau von zusätzlichen grenzüberschreitenden Trassen notwendig, damit Europa auch auf der Schiene weiter zusammenwachsen kann. Das gilt auch für strategische Investitionen in die Zwischenverbindungen (sogen. Bypass-Verbindungen), um Hauptachsen zu entlasten. Das gilt ebenso für den Ausbauvon grenzüberschreitenden ÖPNV-Verbindungen wie etwa dem Schienenregionalverkehr.
+Europäische Verkehrsachsen stärken und ausbauen. Die Straßen und die Schienenwege müssen überall in der EU verbessert werden. Zudem ist der Bau von zusätzlichen grenzüberschreitenden Trassen notwendig, damit Europa auch auf der Schiene weiter zusammenwachsen kann. Das gilt auch für strategische Investitionen in die Zwischenverbindungen (sogen. Bypass-Verbindungen), um Hauptachsen zu entlasten. Das gilt ebenso für den Ausbauvon grenzüberschreitenden ÖPNV-Verbindungen wie etwa dem Schienenregionalverkehr.
 
 Wir wollen die Gleichberechtigung von Fußverkehr, Radverkehr, ÖPNV, neuen Mobilitätsangeboten und motorisiertem Individualverkehr. Den Nachholbedarf in der Entwicklung der Infrastruktur für den ÖPNV, den Fuß- und Radverkehr wollen wir schrittweise beseitigen.
 
