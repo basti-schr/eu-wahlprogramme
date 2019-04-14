@@ -587,7 +587,7 @@ Zulassungsverfahren müssen neu justiert und Ausnahmetatbestände reduziert werd
 Vorsorge bei Züchtung und grüne Gentechnik haben Vorrang.
 Wir wollen keinen Anbau gentechnisch veränderter Pflanzen in Europa. Für uns gilt das Vorsorgeprinzip, insbesondere bei neuen Methoden der Gentechnik wie CRISP/Cas. Eine diesbezügliche Aufweichung der EU-Regelungen lehnen wir ab.
 
-Nährwert-Ampel für Lebensmittel. Wir wollen europaweit eine verbindliche Nährwertkennzeichnung einführen nach dem Vorbild der französischen Nährwertampel „Nutriscore“. Verbraucher*innen sollen auf einen Blick den Zucker-, Fett- und Salzgehalt von verarbeiteten Lebensmitteln erkennen, vergleichen unddie gesündere Wahl treffen können.
+Nährwert-Ampel für Lebensmittel. Wir wollen europaweit eine verbindliche Nährwertkennzeichnung einführen nach dem Vorbild der französischen Nährwertampel „Nutriscore“. Verbraucher\*innen sollen auf einen Blick den Zucker-, Fett- und Salzgehalt von verarbeiteten Lebensmitteln erkennen, vergleichen unddie gesündere Wahl treffen können.
 
 Gegen landwirtschaftliche Großkonzerne: Wir wollen der Konzentration von Agrarland und Saatgutrechten in der Hand landwirtschaftlicher Großkonzerne oder außerlandwirtschaftlicher Investoren wirkungsvoll entgegentreten.
 
