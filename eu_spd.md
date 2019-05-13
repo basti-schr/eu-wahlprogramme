@@ -346,9 +346,9 @@ Völlig egal mit welcher sexuellen Orientierung oder geschlechtlichen Identität
 
 Was wir machen:
 
-Verabschiedung der europäischen Richtlinie von 2008, die Diskriminierung auch in den Bereichen Sozialschutz, Bildung sowie Zugang zu und Versorgung mit Gütern und Dienstleistungen verbietet (5. Antidiskriminierungs-Richtlinie ).
+Verabschiedung der europäischen Richtlinie von 2008, die Diskriminierung auch in den Bereichen Sozialschutz, Bildung sowie Zugang zu und Versorgung mit Gütern und Dienstleistungen verbietet (5. Antidiskriminierungs-Richtlinie).
 
-Eine ehrgeizige EUGesetzgebungsagenda, die gleiche Rechte und Chancen garantiert und die LGBTIQ-Rechte in allen Bereichen schützt. Damit soll auch ein Gegengewicht gegen „Anti-Propaganda“-Gesetze in einzelnen Mitgliedsstaaten gesetzt werden, die Diskriminierung und Hass gegen LSBTIQ-Menschen befördern.
+Eine ehrgeizige EU Gesetzgebungsagenda, die gleiche Rechte und Chancen garantiert und die LGBTIQ-Rechte in allen Bereichen schützt. Damit soll auch ein Gegengewicht gegen „Anti-Propaganda“-Gesetze in einzelnen Mitgliedsstaaten gesetzt werden, die Diskriminierung und Hass gegen LSBTIQ-Menschen befördern.
 
 Strafverfolgungsbehörden überall in Europa sensibilisieren, um ein konsequenteres Vorgehen gegen Gewalt gegen Frauen sowie gegen Gewalt auf Grund von sexueller Orientierung oder geschlechtlicher Identität vorgehen zu können.
 
