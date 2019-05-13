@@ -11,8 +11,7 @@ Wir sollten nicht vergessen, in welcher Freiheit wir hier leben. Wir können rei
 
 Europa steckt aber in einer Krise. Die Europäische Union atmet nicht mehr den Geist des gemeinsamen Aufbruchs in eine bessere Zukunft. Ihre Strukturen sind unübersichtlich, vielfach zu bürokratisch, und viele Menschen sind enttäuscht, wenn Europa sich im Klein-Klein verliert, statt die drängenden großen Herausforderungen zu lösen. Die jahrzehntelange „Große Koalition" aus Konservativen und Sozialdemokraten im Europäischen Parlament lähmt sich selbst und verfolgt lieber eigene Interessen als eine gemeinsame Zukunftsvision. Die Europäische Union driftet zunehmend auseinander: Nord und Süd, Ost und West, Klein und Groß. Und wie der Brexit zeigt, ist sie längst keine Selbstverständlichkeit mehr. Das alles macht Europa anfällig für seine Feinde – Populisten von rechts wie links, die in den Mitgliedstaaten und auch immer stärker im Europäischen Parlament selbst versuchen, unser gemeinsames Europa zu bekämpfen. Europa braucht daher mehr denn je die Entschlossenheit, nicht nur Probleme zu diskutieren, sondern die Chancen dahinter zu erkennen, zu ergreifen und endlich zu handeln.
 
-Europa braucht Mut zur Veränderung. Veränderung gegen Stillstand und lautes Gebrüll. Veränderung für neue Begeisterung und eine neue Form von Sachlichkeit, die schnell Fortschritte für alle bringt. Das ist *unser*
-Weg: ein Weg, der keinen Zweifel daran lässt, dass wir diese Europäische Union stärker und besser machen wollen.
+Europa braucht Mut zur Veränderung. Veränderung gegen Stillstand und lautes Gebrüll. Veränderung für neue Begeisterung und eine neue Form von Sachlichkeit, die schnell Fortschritte für alle bringt. Das ist *unser* Weg: ein Weg, der keinen Zweifel daran lässt, dass wir diese Europäische Union stärker und besser machen wollen.
 
 ## Chancen nutzen – Europa besser machen
 
@@ -493,8 +492,7 @@ Wir Freie Demokraten wollen faire Chancen am Start, keine Gleichmacherei bei den
 
 ### Teilhabe statt Diskriminierung in Europa
 
-Wir Freie Demokraten stehen für die Freizügigkeit aller Beschäftigten und Selbstständigen in Europa. Sie darf bestimmte Gruppen der Bevölkerung nicht ausschließen. Wenn Familienangehörige einer EU-
-Bürgerin oder eines EU-Bürgers nicht am Arbeitsort leben und arbeiten können, wenn das gesellschaftliche Klima gegenüber einer Gruppe feindlich ist und man Gewalt fürchten muss, dann steht die Freizügigkeit nur auf dem Papier.
+Wir Freie Demokraten stehen für die Freizügigkeit aller Beschäftigten und Selbstständigen in Europa. Sie darf bestimmte Gruppen der Bevölkerung nicht ausschließen. Wenn Familienangehörige einer EU-Bürgerin oder eines EU-Bürgers nicht am Arbeitsort leben und arbeiten können, wenn das gesellschaftliche Klima gegenüber einer Gruppe feindlich ist und man Gewalt fürchten muss, dann steht die Freizügigkeit nur auf dem Papier.
 
 Diskriminierung und Gewalt aufgrund von Rasse, Herkunft, Religion, Alter, Behinderung, sexueller Orientierung oder geschlechtlicher Identität muss EU-weit entgegengetreten werden. Nichtregierungsorganisationen, die sich in diesem Bereich engagieren, sollen daher stärker als heute bedarfsorientiert von der Europäischen Union (EU) gefördert werden.
 
@@ -619,7 +617,7 @@ Wir Freie Demokraten respektieren die Entscheidung anderer europäischer Länder
 
 ### Für eine europäische Energieaußenpolitik
 
-Wir Freie Demokraten setzen uns für eine gemeinsame europäische Energiepolitik ein, die es der Europäischen Union (EU) ermöglicht, ihre Energiequellen zu diversifizieren und ihre Energieabhängigkeit von einzelnen Lieferanten zu reduzieren. Um eine kontinuierliche Versorgung mit Energie zu garantieren, sind die EU-Mitgliedstaaten auf Energieimporte angewiesen. Angesichts dieser Abhängigkeit ist Energiepolitik immer auch Außen- und Sicherheitspolitik. Viele Staaten, die uns mit fossilen Brennstoffen beliefern, sind politisch instabil, werden autoritär regiert oder nutzen die Einnahmen aus dem Export von Energieträgern zur Durchsetzung ihrer geopolitischen Interessen. Es ist daher ein Gebot der Versorgungssicherheit, unsere Energiequellen zu diversifizieren und zugleich Sorge dafür zu tragen, dass die EU-Mitgliedstaaten bei der Energieversorgung möglichst eng zusammenarbeiten. Daher fordern wir, dass für Deutschland wichtige Energieinfrastrukturprojekte wie die Erdgaspipeline Nord Stream 2 künftig auf europäischer Ebene abgestimmt und die Verhandlungen darüber von der Europäischen Kommission geführt werden. So können die Sicherheitsbedürfnisse unserer europäischen Partner berücksichtigt und der wichtige Ausbau unserer Zulieferungsinfrastruktur im Einklang mit den Prinzipien der Energieunion vorangetrieben werden**.**
+Wir Freie Demokraten setzen uns für eine gemeinsame europäische Energiepolitik ein, die es der Europäischen Union (EU) ermöglicht, ihre Energiequellen zu diversifizieren und ihre Energieabhängigkeit von einzelnen Lieferanten zu reduzieren. Um eine kontinuierliche Versorgung mit Energie zu garantieren, sind die EU-Mitgliedstaaten auf Energieimporte angewiesen. Angesichts dieser Abhängigkeit ist Energiepolitik immer auch Außen- und Sicherheitspolitik. Viele Staaten, die uns mit fossilen Brennstoffen beliefern, sind politisch instabil, werden autoritär regiert oder nutzen die Einnahmen aus dem Export von Energieträgern zur Durchsetzung ihrer geopolitischen Interessen. Es ist daher ein Gebot der Versorgungssicherheit, unsere Energiequellen zu diversifizieren und zugleich Sorge dafür zu tragen, dass die EU-Mitgliedstaaten bei der Energieversorgung möglichst eng zusammenarbeiten. Daher fordern wir, dass für Deutschland wichtige Energieinfrastrukturprojekte wie die Erdgaspipeline Nord Stream 2 künftig auf europäischer Ebene abgestimmt und die Verhandlungen darüber von der Europäischen Kommission geführt werden. So können die Sicherheitsbedürfnisse unserer europäischen Partner berücksichtigt und der wichtige Ausbau unserer Zulieferungsinfrastruktur im Einklang mit den Prinzipien der Energieunion vorangetrieben werden.
 
 ### Mehr Wald für den Klimaschutz – in Europa und weltweit
 
@@ -800,8 +798,7 @@ Darüber hinaus bekennen wir uns zur Gleichberechtigung der Geschlechter in Euro
 
 Für Menschen mit Behinderung müssen Teilhabe und eine selbstbestimmte Lebensweise in Europa selbstverständlich werden. Daher fordern wir einen europaweiten Teilhabeausweis. Barrierefreie Kommunikation staatlicher Stellen soll auch verstärkt Englisch als zweite Sprache vorsehen. Insbesondere hat die Europäische Union zu gewährleisten, dass ihre Informationen, Formulare und Bescheide allen ihren Bürgerinnen und Bürgern mit und ohne Handicap barrierefrei und in Leichter Sprache zugänglich sind.
 
-Wir Freie Demokraten fordern den europaweiten Ausbau der Förderprogramme inklusiver Begegnungen. Dies setzt eine bessere Unterstützung von Nichtregierungsorganisationen beim Zugang zu und bei der Abrechnung von EU-Fördermitteln voraus. Das grenzenlose Europa der Bildung und Ausbildung muss auch für Menschen mit Behinderung und Assistenzbedarf erlebbar sein. Dazu bedarf es eines Austauschprogramms für junge Menschen mit Behinderung, zum Beispiel im Rahmen des Erasmus+-
-Programms.
+Wir Freie Demokraten fordern den europaweiten Ausbau der Förderprogramme inklusiver Begegnungen. Dies setzt eine bessere Unterstützung von Nichtregierungsorganisationen beim Zugang zu und bei der Abrechnung von EU-Fördermitteln voraus. Das grenzenlose Europa der Bildung und Ausbildung muss auch für Menschen mit Behinderung und Assistenzbedarf erlebbar sein. Dazu bedarf es eines Austauschprogramms für junge Menschen mit Behinderung, zum Beispiel im Rahmen des Erasmus+-Programms.
 
 ## Europa als wehrhafte Rechtsgemeinschaft
 
@@ -873,7 +870,7 @@ Für uns Freie Demokraten sind offene Binnengrenzen als wesentliches Element zur
 
 Wir wollen einen weiteren Stellenaufbau bei Frontex. Ein wirksamer gemeinsamer europäischer Grenzschutz funktioniert nur, wenn sich alle EU-Mitgliedstaaten an diesem Stellenaufbau beteiligen. Die Innere Sicherheit und der Schutz der Außengrenzen dürfen dabei nicht gegeneinander ausgespielt werden. Offene Binnengrenzen gibt es nur mit einem funktionierenden Schutz der Außengrenzen. Daher liegt es im Interesse der nationalen Inneren Sicherheit der Mitgliedstaaten, dass mehr nationale Beamtinnen und Beamte an die Agentur Frontex abgeordnet werden.
 
-Wir Freie Demokraten bekennen uns klar zur Rettung von Menschenleben. Aus diesem Grund soll die Agentur auch Aufgaben der Hochseenotrettung im Mittelmeer wahrnehmen, um weitere Tote durch kenternde Schlepperboote zu verhindern. Der Ausbau der Grenzschutzagentur dient auch der Solidarität mit jenen EU-Mitgliedstaaten, die über EU-Außengrenzen verfügen, und ist eine Voraussetzung für ein dauerhaft funktionierendes Gemeinsames Europäisches Asylsystem, welches die Dublin-Regeln weiterentwickelt*.*
+Wir Freie Demokraten bekennen uns klar zur Rettung von Menschenleben. Aus diesem Grund soll die Agentur auch Aufgaben der Hochseenotrettung im Mittelmeer wahrnehmen, um weitere Tote durch kenternde Schlepperboote zu verhindern. Der Ausbau der Grenzschutzagentur dient auch der Solidarität mit jenen EU-Mitgliedstaaten, die über EU-Außengrenzen verfügen, und ist eine Voraussetzung für ein dauerhaft funktionierendes Gemeinsames Europäisches Asylsystem, welches die Dublin-Regeln weiterentwickelt.
 
 ### Für ein Europa sicherer Außengrenzen und offener Binnengrenzen (Schengen)
 

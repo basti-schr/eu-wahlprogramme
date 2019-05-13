@@ -154,9 +154,7 @@ Weiterhin sind Waffenexporte in Krisenregionen und insbesondere an Willkürregim
 Staaten, in denen Korruption, Vetternwirtschaft und Missmanagement vorherrschen, sind von der Entwicklungshilfe auszuschließen. Budgethilfe begünstigt die Mittelverschwendung und ist daher einzustellen. Atommächte wie China, Indien und Pakistan aber auch Staaten, die selbst Entwicklungshilfe gewähren, sollen keine, wie auch immer gestaltete, Entwicklungshilfe erhalten.
 
 Freihandel ist die wirksamste und unbürokratischste Form der Entwicklungshilfe.
-Deshalb muss die EU ihre Märkte für Güter und Dienstleistungen der Entwicklungsländer öffnen und die Ausfuhr von subventionierten Produkten in die Entwicklungsländer beenden. EU-Bewertungs- und Vergabeverfahren sowie Standards und
-
-Normen sollen nicht zu Handelshemmnissen werden.
+Deshalb muss die EU ihre Märkte für Güter und Dienstleistungen der Entwicklungsländer öffnen und die Ausfuhr von subventionierten Produkten in die Entwicklungsländer beenden. EU-Bewertungs- und Vergabeverfahren sowie Standards und Normen sollen nicht zu Handelshemmnissen werden.
 Die Entwicklungshilfe muss einer strikten Verwendungskontrolle und einer regelmäßigen unabhängigen Evaluierung der Ergebnisse unterzogen werden. Humanitäre Hilfe hat in der Regel keine langfristige Entwicklungswirkung und ist daher keine Entwicklungshilfe im engeren Sinne. Die humanitäre Hilfe sollte Aufgabe der Kirchen und Wohltätigkeitsorganisationen sein. Finanzhilfen an Organisationen, die Terroraktionen durchführen, unterstützen oder befürworten, sind umgehend einzustellen.
 
 ## 3.4 Außenhandelspolitik
@@ -212,7 +210,7 @@ Die Bedingungen des Marktzuganges sind anzugleichen, damit ein Ausverkauf unsere
 
 ## 4.5 Wertschöpfung erhalten, Schlüsseltechnologien fördern
 
-Wir kritisieren, dass die EU mit allen politischen Mitteln Verbrennungsmotoren z.B. über absurde Grenzwerte, Fahrverbote und drastischer Strafzahlungen abschafft und daher deutsche Automobilunternehmen ins Ausland treibt. Wir wollen das Gegenteil, nämlich verlässliche Rahmenbedingungen, die Unternehmer und Arbeitsplätze bei uns halten. Zusätzlich sollen Unternehmen durch Beratungs dienste, Kooperations- und Austauschplattformen und bei ihrer Anschubfinanzierung unterstützt werden.
+Wir kritisieren, dass die EU mit allen politischen Mitteln Verbrennungsmotoren z.B. über absurde Grenzwerte, Fahrverbote und drastischer Strafzahlungen abschafft und daher deutsche Automobilunternehmen ins Ausland treibt. Wir wollen das Gegenteil, nämlich verlässliche Rahmenbedingungen, die Unternehmer und Arbeitsplätze bei uns halten. Zusätzlich sollen Unternehmen durch Beratungsdienste, Kooperations- und Austauschplattformen und bei ihrer Anschubfinanzierung unterstützt werden.
 
 Zur Entwicklung von Hochtechnologien wollen wir Fördergelder bereitstellen, die den Nutzern eine möglichst hohe Flexibilität erlauben. Beispielhaft seien hier Raumfahrtprogramme und Programme zur Entwicklung von künstlicher Intelligenz genannt. Die systemimmanente Schwerfälligkeit der länderübergreifenden Zusammenarbeit darf nicht dazu führen, dass wir gegenüber flexibleren Akteuren ins Hintertreffen geraten.
 
@@ -238,7 +236,7 @@ Die EZB sollte eine zweite Deutsche Bundesbank sein. Stattdessen betreibt sie ei
 
 Alle Maßnahmen der EZB zur Manipulation des freien Kapitalmarkts müssen eingestellt werden.
 
-Eine Politik der künstlich herbeigeführten Null- und Negativzinsen führt zur Zerstörung der zentralen Märkte für Anleihen sowie zur Enteignung der Kleinund Lebensversicherungssparer und damit zu Altersarmut. Der durch die EZB-Politik verursachte, für Deutschland zu schwache Euro, und die Preisexplosion am Aktien- und Immobilienmarkt zerstören die Kaufkraft von nicht so schnell steigenden Einkünften, wovon insbesondere Arbeitnehmer und Rentner betroffen sind.
+Eine Politik der künstlich herbeigeführten Null- und Negativzinsen führt zur Zerstörung der zentralen Märkte für Anleihen sowie zur Enteignung der Klein- und Lebensversicherungssparer und damit zu Altersarmut. Der durch die EZB-Politik verursachte, für Deutschland zu schwache Euro, und die Preisexplosion am Aktien- und Immobilienmarkt zerstören die Kaufkraft von nicht so schnell steigenden Einkünften, wovon insbesondere Arbeitnehmer und Rentner betroffen sind.
 
 Während die Deutsche Bundesbank nur einmal in 50 Jahren direkt Staatsanleihen gekauft hat, ist das für die EZB seit 2015 das tägliche „Geschäftsmodell“. Ende 2018 wird sie für fast 4 Billionen Euro staatliche und private Anleihen erworben haben. Eine solche unverantwortliche Ausweitung der Geldmenge ist nach den europäischen Verträgen verboten.
 
@@ -284,7 +282,7 @@ Die AfD fordert den dauerhaften Erhalt der uneingeschränkten Bargeldnutzung als
 
 Die AfD verlangt, dass die Bundesregierung sich gegen jede Weiterverfolgung der sogenannten Europäischen Bankenunion und die von der EU-Kommission vorgeschlagene Europäische Einlagensicherung (EDIS) stellt. Mit der Europäischen Bankenunion würden auch die bisher nur kommunal verankerten deutschen Sparkassen, Genossenschaftsbanken und die deutsche private Bankenwirtschaft der EU-Umverteilung unterworfen. Die EDIS wäre mit mehreren Billionen Euro der größte gemeinschaftliche Haftungstopf der EU. Durch diese Vergemeinschaftung würden deutsche Sparer und Bankkunden mit ihrem Einlagengeld für marode Banken in den Mittelmeerländern haften, die bereits heute über 900 Milliarden Euro an uneinbringlichen Kreditforderungen in den Bilanzen haben. Riesige Ausfälle sind nur eine Frage der Zeit und würden nach Einführung von EDIS direkt deutsche Haftungszahlungen auslösen! Darüber hinaus würde eine EDIS zukünftig auf Grund einer höheren deutschen Absicherung zur Inkaufnahme höherer Risiken durch ausländische Banken verleiten.
 
-Dies wäre ein weiterer Schritt in die von der AfD abgelehnte vertiefte Haftungsund Transferunion. Die AfD verlangt, dass die deutschen Banken etwaige Haftungen nur auf die nationale Ebene begrenzen und wie bisher eigene Haftungs- und Einlagensicherungs-Verbundlösungen schaffen können, die den unterschiedlichen Profilen der deutschen Bankengruppen Rechnung tragen. Wir treten dafür ein, die nationale Souveränität über die Banken- und Finanzdienstleistungen wiederherzustellen; dieser Wirtschaftsbereich ist für ein reibungsloses Funktionieren unserer Volkswirtschaft lebenswichtig.
+Dies wäre ein weiterer Schritt in die von der AfD abgelehnte vertiefte Haftungs- und Transferunion. Die AfD verlangt, dass die deutschen Banken etwaige Haftungen nur auf die nationale Ebene begrenzen und wie bisher eigene Haftungs- und Einlagensicherungs-Verbundlösungen schaffen können, die den unterschiedlichen Profilen der deutschen Bankengruppen Rechnung tragen. Wir treten dafür ein, die nationale Souveränität über die Banken- und Finanzdienstleistungen wiederherzustellen; dieser Wirtschaftsbereich ist für ein reibungsloses Funktionieren unserer Volkswirtschaft lebenswichtig.
 
 Die AfD wendet sich gegen jeden Versuch einer europäischen Vergemeinschaftung von Haftungsrisiken, insbesondere aus Bankgeschäften. Die AfD verlangt, die Haftung deutscher Banken für andere EU-Banken weiterhin auszuschließen.
 
@@ -293,6 +291,7 @@ Die AfD wendet sich gegen jeden Versuch einer europäischen Vergemeinschaftung v
 Im Zahlungsverkehr der Euro-Zone muss der Ausgleich der offenen TARGET-Salden zwischen den Nationalbanken wie bis 2007 wieder direkt und taggleich stattfinden, um den Anstieg von nicht realisierbaren Forderungen bei der Deutschen Bundesbank zu vermeiden. Derzeit hat die Deutsche Bundesbank offene Forderungen in Höhe von fast 1.000 Milliarden Euro gegenüber der EZB, deren Beitreibung mangels hinterlegter Sicherheiten ungewiss und juristisch nicht einmal durchsetzbar ist.
 
 Als Sofortmaßnahme, noch vor einem „Dexit“, fordert die AfD darum die Bundesregierung und die Deutsche Bundesbank auf, die bislang geduldete Überbeanspruchung des Verrechnungskontos „TARGET2“ zu beenden. Die hoch ausbuchungsgefährdeten TARGET2 - Forderungen der Deutschen Bundesbank sind abzuschmelzen, angemessen zu verzinsen und mit Sicherheiten (Gold, Devisenreserven oder anderer Staatsbesitz) zu unterlegen.
+
 ## 5.7 Trennung EZB und Bankenaufsicht
 
 Die EZB darf nicht Aufsichtsbehörde über Banken sein. Der damit verbundene Interessenkonflikt zwischen Aufsicht und Geldpolitik sorgt immer wieder für Kritik.
@@ -426,9 +425,7 @@ Die verschiedenen Sparten der Landwirtschaft – Ackerbau, Viehzucht, Weinbau, F
 
 Die AfD erkennt die große Bedeutung der Landwirtschaft für die Versorgung der Bevölkerung mit hochwertigen Nahrungsmitteln sowie den Erhalt der ländlichen Räume an. Wir wollen die Förderungspolitik der EU in die Mitgliedsstaaten und damit nach Deutschland zurückholen. Eine Subventionierung der Landwirtschaft bleibt zunächst bestehen, da in einem freien globalen Wettbewerb der Bauernstand aus Deutschland sonst verschwinden würde. Landwirtschaftliche Subventionen müssen neben der Flächengröße besonders die weiteren Leistungen kleiner Familienbetriebe berücksichtigen. Weniger EU würde auch weniger Bürokratie für die Landwirte bedeuten, die faktisch nur Zeit und Geld kostet, aber keine positiven Auswirkungen auf Landwirtschaft und Umwelt hat. Die Düngemittelverordnung ist der neueste Auswuchs in diese Richtung, die viele Nutztierhalter in Existenznöte bringt. Wir wollen die regionale Vermarktung landwirtschaftlicher Erzeugnisse unterstützen. Dafür ist mehr Transparenz bei der Lebensmittelkennzeichnung nötig. Die Landwirtschaft braucht ehrliche Erzeugerpreise.
 
-Die Gesamtbevölkerung in der EU wächst, wenn auch nur durch die große Zahl Zugewanderter und vorübergehend Aufgenommener. Die Anbauflächen pro Kopf schrumpfen somit. Umso größer ist die Bedeutung landwirtschaftlich genutzter
-
-Flächen. Wir fordern ein sofortiges Ende der Vermaisung der Kulturlandschaft und der Spekulation mit landwirtschaftlichen Flächen. Die „Greening“-Auflagen müssen auf den Prüfstand und die Ausgleichsflächen auf ein Minimum reduziert werden.
+Die Gesamtbevölkerung in der EU wächst, wenn auch nur durch die große Zahl Zugewanderter und vorübergehend Aufgenommener. Die Anbauflächen pro Kopf schrumpfen somit. Umso größer ist die Bedeutung landwirtschaftlich genutzter Flächen. Wir fordern ein sofortiges Ende der Vermaisung der Kulturlandschaft und der Spekulation mit landwirtschaftlichen Flächen. Die „Greening“-Auflagen müssen auf den Prüfstand und die Ausgleichsflächen auf ein Minimum reduziert werden.
 
 Ein wirksamer Pflanzenschutz nach guter fachlicher Praxis ist die Grundlage jeglicher landwirtschaftlichen Produktion. Die bewährten Zulassungsstandards im Hinblick auf Umwelt-, Gesundheit- und Verbraucherschutz dürfen dabei weder vernachlässigt noch praxisfern verschärft werden. Eine zentrale Prüf- und Zulassungsbehörde der EU sehen wir kritisch. Die Vielfalt der Prüfbehörden in den Mitgliedsländern stellt das verantwortungsvolle und bewährte „Mehr-Augen-Prinzip“ sicher.
 
@@ -496,13 +493,11 @@ Zahlreiche Koranverse fordern den Kampf gegen Nichtmuslime bis hin zur Tötung v
 Die AfD erkennt die Glaubens-, Gewissens- und Bekenntnisfreiheit uneingeschränkt an. Sie fordert jedoch, konsequent die Menschenrechte gemäß der allgemeinen Menschenrechtserklärung der UN zu verteidigen. Insbesondere sind der Ausübung der Religionsfreiheit Grenzen zu setzen, sofern dadurch die Grundrechte anderer verletzt werden. Staatliches Recht muss in der säkularen Ordnung Europas über religiösen Geboten und Traditionen stehen. Eine Kritik am Islam muss vom Grundrecht auf freie Meinungsäußerung gedeckt sein.
 
 Der imperialistische Islam, der seit dem frühen Mittelalter Teile Europas jahrhundertelang beherrscht hatte, expandiert seit über fünfzig Jahren in europäischen Staaten durch die Einwanderung von Muslimen und ihre höhere Geburtenrate.
-Nur eine Minderheit der Muslime ist säkular eingestellt und gesellschaftlich voll integriert. Die Integration der meisten Muslime in Europa scheitert derzeit und wird umso mehr fehlschlagen, je stärker ihre Zahl wächst. In europäischen Großstädten haben sich muslimische Ghettos entwickelt, in denen Friedensrichter die Scharia praktizieren. Das Konzept des Multikulturalismus hat sich als Illusion erwiesen. Mit der Gefährdung des Friedens, unserer Rechts- und Werteordnung sowie unserer
-
-Kultur durch die Ausbreitung des Islams werden wir uns nicht abfinden. Wir wollen nicht in wenigen Jahrzehnten selbst zur Minderheit werden und unser freies und vielfältiges Europa an den Islam verlieren.
+Nur eine Minderheit der Muslime ist säkular eingestellt und gesellschaftlich voll integriert. Die Integration der meisten Muslime in Europa scheitert derzeit und wird umso mehr fehlschlagen, je stärker ihre Zahl wächst. In europäischen Großstädten haben sich muslimische Ghettos entwickelt, in denen Friedensrichter die Scharia praktizieren. Das Konzept des Multikulturalismus hat sich als Illusion erwiesen. Mit der Gefährdung des Friedens, unserer Rechts- und Werteordnung sowie unserer Kultur durch die Ausbreitung des Islams werden wir uns nicht abfinden. Wir wollen nicht in wenigen Jahrzehnten selbst zur Minderheit werden und unser freies und vielfältiges Europa an den Islam verlieren.
 
 Die ständig drohende Terrorgefahr sowie jegliche Radikalisierung von Muslimen werden wir entschlossen bekämpfen. Moscheen dürfen nicht vom islamischen Ausland finanziert werden. Minarette sind als islamische Herrschaftszeichen ebenso zu verbieten wie der Muezzin-Ruf, nach dem es außer Allah keinen anderen Gott gibt.
 Öffentliche Freitagsgebete sollen als religiöse Machtdemonstrationen nicht gestattet sein. Antisemitismus in Wort und Tat muss konsequent bekämpft werden. Burka und Niqab sind als Hindernis für die soziale Kommunikation gemäß einem Urteil des Europäischen Gerichtshofs für Menschenrechte zu untersagen. Das Kopftuch soll als religiös-politisches Zeichen nicht im öffentlichen Dienst getragen werden.
-Polygamie, Zwangsheirat und Kinderehen wollen wir durch ein Verbot von ImamEhen unterbinden.
+Polygamie, Zwangsheirat und Kinderehen wollen wir durch ein Verbot von Imam-Ehen unterbinden.
 
 Die AfD ist überzeugt, dass nur ein entschlossenes gemeinsames Handeln aller europäischen Staaten die drohende Islamisierung Europas verhindern kann. Denn noch nie in der Geschichte Europas war diese Gefahr so groß wie heute, auch wenn dies viele nicht erkennen wollen.
 
@@ -772,9 +767,7 @@ Die Förderung kleiner oder forschungsstarker Unternehmen soll über geeignete I
 
 ## 13.3 Planen, Bauen und Wohnen
 
-Der EU fehlt zwar eine eigenständige Gesetzgebungskompetenz für die Bereiche Bauen und Wohnen, doch haben die bereits geltenden EU-Richtlinien zu Wohnimmobilienkrediten und zur Gesamtenergieeffizienz von Gebäuden erhebliche
-
-Auswirkungen auf den nationalen Wohnungsmarkt und den Immobiliensektor.
+Der EU fehlt zwar eine eigenständige Gesetzgebungskompetenz für die Bereiche Bauen und Wohnen, doch haben die bereits geltenden EU-Richtlinien zu Wohnimmobilienkrediten und zur Gesamtenergieeffizienz von Gebäuden erhebliche Auswirkungen auf den nationalen Wohnungsmarkt und den Immobiliensektor.
 
 #### Wohnimmobilienkreditrichtlinie
 

@@ -85,8 +85,7 @@ Der Kampf gegen Steuerflucht wird verschärft durch automatische Meldepflichten 
 
 Mehr Handlungsfähigkeit in Steuerfragen – lähmendes Einstimmigkeitserfordernis abschaffen. Der Wettlauf um die niedrigsten Steuersätze muss aufhören. Damit Europa in Steuerfragengerechter wird, soll künftig die Mehrheit der Staats- und Regierungschefs im europäischen Rat entscheiden. Die Lähmung durch einzelne Mitgliedstaaten die nur ihre Pfründe sichern wollen, muss aufhören. Außerdem muss das Parlament volles Mitspracherecht in Steuerfragen erhalten.
 
-Die Beihilfe zur Steuerhinterziehung und zum Steuerbetrug durch Banken und Beratungsagenturen werden konsequenter verfolgt. Die kriminelle Praxis, sich mit »Cum-Ex« und
-»Cum-Cum«-Geschäften oder ähnlichen Gestaltungen auf Kosten der ehrlichen Steuerzahler Vorteile zu erschleichen, muss effektiver verfolgt und schärfer bestraft werden. Wir wollen dazu eine Sondereinheit wie in Großbritannien aufbauen, die effektiv gegen Steuerbetrug vorgeht und Steuerhinterziehung konsequent verfolgt. Durch die europäischen Institutionen konsequent sichergestellt werden.
+Die Beihilfe zur Steuerhinterziehung und zum Steuerbetrug durch Banken und Beratungsagenturen werden konsequenter verfolgt. Die kriminelle Praxis, sich mit »Cum-Ex« und »Cum-Cum«-Geschäften oder ähnlichen Gestaltungen auf Kosten der ehrlichen Steuerzahler Vorteile zu erschleichen, muss effektiver verfolgt und schärfer bestraft werden. Wir wollen dazu eine Sondereinheit wie in Großbritannien aufbauen, die effektiv gegen Steuerbetrug vorgeht und Steuerhinterziehung konsequent verfolgt. Durch die europäischen Institutionen konsequent sichergestellt werden.
 
 Vermeidung von internationaler Steuergestaltung. Wir sind für die Transparenz in Steuerfragen. Seit Mitte letzten Jahres werden die länderbezogenen Berichte (sog. Country-by-Country Reports) zwischen den Steuerverwaltungen automatisch ausgetauscht. Damit können die Steuerverwaltungen konsequent gegen Gewinnverlagerungen vorgehen und die Firmen dort besteuern, wo der Gewinn erwirtschaftet wird. Hierbei muss die Europäische Kommission einbezogen werden. Wir wollen die rechtlichen Voraussetzungen dafür schaffen, dass die Berichte veröffentlicht werden.
 
@@ -95,8 +94,7 @@ Finanztransaktionssteuer einführen. Seit 2010 steht das Thema Finanztransaktion
 
 ## 3. Gleichwertigere Lebensverhältnisse und menschlichere Haushaltspolitik
 
-Jeder Mitgliedsstaat und jede Region sollen nach Kräften dafür sorgen, dass es den Bürgerinnen und Bürger gut geht. Gleichzeitig unterstützen sich die Mitgliedsstaaten untereinander durch mehr Solidarität für
-_gleichwertigere_ Lebensbedingungen in ganz Europa und seinen Regionen. Das Kaputtsparen vor allem zu Lasten des sozialen Zusammenhalts werden wir beenden. Zukunftsinvestitionen und die Konsolidierung von öffentlichen Haushalten dürfen nicht mehr gegeneinander ausgespielt werden.
+Jeder Mitgliedsstaat und jede Region sollen nach Kräften dafür sorgen, dass es den Bürgerinnen und Bürger gut geht. Gleichzeitig unterstützen sich die Mitgliedsstaaten untereinander durch mehr Solidarität für _gleichwertigere_ Lebensbedingungen in ganz Europa und seinen Regionen. Das Kaputtsparen vor allem zu Lasten des sozialen Zusammenhalts werden wir beenden. Zukunftsinvestitionen und die Konsolidierung von öffentlichen Haushalten dürfen nicht mehr gegeneinander ausgespielt werden.
 
 
 Was wir machen:
