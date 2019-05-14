@@ -523,7 +523,7 @@ Die Partnerschaften zwischen deutschen und anderen europäischen Städten wollen
 Die Menschen in den Grenzregionen erfahren Europa ganz praktisch. Auch klassische kommunalpolitische Fragestellungen machen nicht an Grenzen halt. Wir wollen die Möglichkeiten grenzüberschreitender kommunaler Zusammenarbeit verbessern.
 
 ### 3.7 Vielfalt in Kultur und Medien – Europas Reichtum
-Europa ist eine reiche Kultur- und Wertegemeinschaft. Die Europäer sind zu Recht stolz auf ihre kulturelle Vielfalt. Gerade in Krisenzeiten wirkt die Kultur identitätsund gemeinschaftsstiftend. Dies zeigt: Die Europäische Union ist mehr als ein Binnenmarkt.
+Europa ist eine reiche Kultur- und Wertegemeinschaft. Die Europäer sind zu Recht stolz auf ihre kulturelle Vielfalt. Gerade in Krisenzeiten wirkt die Kultur identitäts- und gemeinschaftsstiftend. Dies zeigt: Die Europäische Union ist mehr als ein Binnenmarkt.
 
 Die kulturelle Vielfalt Europas zeigt sich vor allem in den unterschiedlichen europäischen Landschaften und Regionen. Die CDU bekennt sich daher ausdrücklich zur Kulturhoheit der Mitgliedstaaten und ihrer Regionen.
 

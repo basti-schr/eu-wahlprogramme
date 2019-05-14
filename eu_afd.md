@@ -485,7 +485,7 @@ Wir verurteilen Versuche von EU-Institutionen, mit fadenscheinigen Gründen den 
 
 ## 8.5 Islam – Gefahr für Europa
 
-Europa ist wesentlich geprägt von der griechisch-römischen Antike, dem Judenund Christentum, der Aufklärung und den Menschenrechten. Im Geiste von Freiheit, Rechtsstaat und Demokratie wollen wir dieses Europa für uns und unsere Nachkommen dauerhaft erhalten. Wir werden Europa gegen einen Islam verteidigen, der auf der Basis von Koran und Sunna mit den europäischen Grundprinzipien von Recht, Freiheit und Demokratie nicht vereinbar ist, einen Herrschaftsanspruch als alleingültige Religion erhebt und die Scharia durchsetzen will.
+Europa ist wesentlich geprägt von der griechisch-römischen Antike, dem Juden- und Christentum, der Aufklärung und den Menschenrechten. Im Geiste von Freiheit, Rechtsstaat und Demokratie wollen wir dieses Europa für uns und unsere Nachkommen dauerhaft erhalten. Wir werden Europa gegen einen Islam verteidigen, der auf der Basis von Koran und Sunna mit den europäischen Grundprinzipien von Recht, Freiheit und Demokratie nicht vereinbar ist, einen Herrschaftsanspruch als alleingültige Religion erhebt und die Scharia durchsetzen will.
 
 Der Islam trennt nicht zwischen Staat und Religion und ist damit auch eine politische Ideologie. Die Scharia regelt totalitär das gesamte Leben der Muslime und alle Bereiche der islamischen Gesellschaft. Religionsfreiheit ist dem Islam fremd.
 Zahlreiche Koranverse fordern den Kampf gegen Nichtmuslime bis hin zur Tötung von Andersgläubigen. Freundschaft mit „Ungläubigen“ ist Muslimen laut Koran verboten. Die Geschlechter sind nicht gleichberechtigt, Frauen werden unterdrückt, und Homosexualität ist ein Verbrechen. Täuschung ist als Taqiyya erlaubt, wenn sie dem Islam nützt.
@@ -708,7 +708,7 @@ Die AfD vertritt den Gedanken der Subsidiarität. Kulturpolitik ist in Deutschla
 
 ## 12.8 Kulturerbe bewahren
 
-Die AfD setzt sich für den Erhalt und die Pflege des deutschen und europäischen Kulturerbes ein. Neben den Institutionen der Hochkultur, wie Theatern, Orchestern und Museen, haben wir auch das immaterielle Kulturerbe, wie etwa Minderheitensprachen, Brauchtum, Volkstänze, Feste und Vereinswesen, Handwerksund Regionalkulturen im Auge.
+Die AfD setzt sich für den Erhalt und die Pflege des deutschen und europäischen Kulturerbes ein. Neben den Institutionen der Hochkultur, wie Theatern, Orchestern und Museen, haben wir auch das immaterielle Kulturerbe, wie etwa Minderheitensprachen, Brauchtum, Volkstänze, Feste und Vereinswesen, Handwerks- und Regionalkulturen im Auge.
 
 Im Regelfall sollten die EU-Mitgliedsstaaten für die Pflege und den Erhalt ihres Kulturerbes selbst verantwortlich sein. EU-Mittel sollten nur für Notfälle bereitgestellt werden, um einen unwiederbringlichen Verlust von Kulturgut zu verhindern. Den derzeit herrschenden Zwang zur Kooperation zwischen verschiedenen EU-Mitgliedsstaaten, um an Fördermittel zu gelangen, lehnen wir ab. Die Mittelvergabe darf nicht an Rahmenvorgaben der politischen Korrektheit, etwa an Auflagen des Gender-Mainstreaming, Diversity-Bestrebungen oder Ähnliches gebunden werden.
 
@@ -745,7 +745,7 @@ Die AfD wird sich im EU-Parlament für die ersatzlose Streichung aller Richtlini
 
 Ein breiter Energiemix aus Kohle, Mineralöl, Erdgas, Wasserkraft und Kernkraft ist Voraussetzung zum Erreichen des Zieldreiecks einer versorgungssicheren, wirtschaftlichen und umweltverträglichen Energiepolitik. Braunkohle ist der einzige kostengünstige und langfristig verfügbare inländische Energieträger von Bedeutung. Die EU und die Bundesregierung bereiten mit Hilfe der CO2-Zertifikate-Politik und über eine Besetzung der deutschen Kohlekommission mit Fachfremden und grünen Ideologen den Kohleausstieg vor. Nach dem Abschalten der Kernkraftwerke wäre dies das Ende einer sozial orientierten und wettbewerbsfähigen Energieversorgung in Deutschland.
 
-Die „Erneuerbaren Energien“ Wind und Sonne hängen vom Wetter, den Tagesund Jahreszeiten ab und ihre Erträge sind nicht kalkulierbar. Eine Speicherung von Strom für den Ausgleich der ständig schwankenden „Erneuerbaren Energien“ bis hin zu längeren Dunkelflauten ohne Wind und Sonne ist wirtschaftlich nicht möglich. Bedingt durch ihre geringen Leistungsdichten haben diese „Erneuerbaren“ einen hohen Flächen- und Materialverbrauch und sind im großen Maßstab schädlich für Mensch, Natur und Umwelt. Kohle-, Kern- und Gaskraftwerke sollen in Betrieb bleiben, solange deren Betreiber es unter marktwirtschaftlichen Bedingungen für sinnvoll halten.
+Die „Erneuerbaren Energien“ Wind und Sonne hängen vom Wetter, den Tages- und Jahreszeiten ab und ihre Erträge sind nicht kalkulierbar. Eine Speicherung von Strom für den Ausgleich der ständig schwankenden „Erneuerbaren Energien“ bis hin zu längeren Dunkelflauten ohne Wind und Sonne ist wirtschaftlich nicht möglich. Bedingt durch ihre geringen Leistungsdichten haben diese „Erneuerbaren“ einen hohen Flächen- und Materialverbrauch und sind im großen Maßstab schädlich für Mensch, Natur und Umwelt. Kohle-, Kern- und Gaskraftwerke sollen in Betrieb bleiben, solange deren Betreiber es unter marktwirtschaftlichen Bedingungen für sinnvoll halten.
 
 Die AfD setzt sich im Interesse einer sinnvollen Ressourcen-Erweiterung sowohl für den Ausbau der Pipeline Nord Stream 2 als auch für Häfen mit geeigneten Terminals für den Bezug von Flüssig-Erdgas (LNG) ein.
 
@@ -778,7 +778,7 @@ Die seit dem 21. März 2016 in Deutschland umgesetzte Wohnimmobilienkreditrichtl
 Die erst im April 2018 nochmals verschärfte Richtlinie zur Gesamtenergieeffizienz von Gebäuden sieht u.a. die Einführung eines „Niedrigst-Energiegebäudes“ als Standard für alle Neubauten ab 2021 und für behördliche Bauten ab 2019 vor.
 Dies erfordert große Mengen Dämmmaterial (Sondermüll), birgt die Gefahr von Schimmelbildung in Gebäuden, führt zu erheblich höheren Baukosten und damit zu unnötig hohen Mieten, ohne den Nachweis zu erbringen, dass die Kosten/Nutzen Bilanz sowie die Energieeinsparungs- und CO2-Bilanz positiv nachgewiesen wurden.
 
-Diese verordnete Energiepolitik führt zu massiven Eingriffen in die Planungsund Gestaltungsfreiheit der Mitgliedstaaten. Dies widerspricht elementar dem Subsidiaritätsprinzip. Es kann keine EU-Richtlinien für Gebäude und Städteplanung geben, die passend sind für Nordfinnland bis Sizilien und für Portugal bis Rumänien. Wir befürworten alle Möglichkeiten zur Energie- und Kosteneinsparung, aber wir wollen eine technologieoffene Entscheidungsbefugnis.
+Diese verordnete Energiepolitik führt zu massiven Eingriffen in die Planungs- und Gestaltungsfreiheit der Mitgliedstaaten. Dies widerspricht elementar dem Subsidiaritätsprinzip. Es kann keine EU-Richtlinien für Gebäude und Städteplanung geben, die passend sind für Nordfinnland bis Sizilien und für Portugal bis Rumänien. Wir befürworten alle Möglichkeiten zur Energie- und Kosteneinsparung, aber wir wollen eine technologieoffene Entscheidungsbefugnis.
 
 Baurecht und zugehörige Verordnungen gehören ausschließlich in nationale Zuständigkeit.
 
